@@ -153,8 +153,38 @@ $(document).ready(function () {
         }); //done
     });
 
+    $( "#formContato" ).submit(function( event ) {
+
+        //var formAmigo = $('#cotacao');
+        event.preventDefault();
+        var $form = $( this ),
+            data = $form.serialize(),
+            url = "contato-home";
+        var posting = $.post( url, { formData: data } );
+
+        posting.done(function( data ) {
+            if(data.fail) {
+
+                swal(
+                    'Ops!',
+                    'Houve um erro ao tentar enviar o contato ;/!',
+                    'error'
+                )
+            }
+            if(data.success) {
+                $('#formContato')[0].reset();
+                swal(
+                    'Parabéns!',
+                    'Seu contato foi efetuado com sucesso. Logo entraremos em contato!',
+                    'success'
+                )
+                $('html, body').animate({scrollTop: 0}, 1000);
+            } //success
+        }); //done
+    });
+
     $( "#agendamento" ).submit(function( event ) {
-        console.log('teste');
+
         //var formAmigo = $('#cotacao');
         event.preventDefault();
         var $form = $( this ),
@@ -168,7 +198,7 @@ $(document).ready(function () {
                 $.each(data.errors, function( index, value ) {
                     $('text-error').show('fast');
                 });
-                $('#successMessage').empty();
+
             }
             if(data.success) {
 
@@ -178,8 +208,6 @@ $(document).ready(function () {
                     'success'
                 )
 
-                $('.hide-body').empty();
-                $('#divSucessoAmigo').css('display','block');
             } //success
         }); //done
     });

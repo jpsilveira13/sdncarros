@@ -137,28 +137,28 @@
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Nome</label>
-                                <input type="text" class="form-control" placeholder="Informe o nome" id="name" required data-validation-required-message="Por favor insere seu nome.">
+                                <input type="text" name="nome" class="form-control" placeholder="Informe o nome" id="nome" required data-validation-required-message="Por favor insere seu nome.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Email</label>
-                                <input type="email" class="form-control" placeholder="Informe o seu email" id="email" required data-validation-required-message="Por favor insere o seu email.">
+                                <input type="email" name="email" class="form-control" placeholder="Informe o seu email" id="email" required data-validation-required-message="Por favor insere o seu email.">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Telefone ou Celular</label>
-                                <input type="tel" class="form-control" placeholder="Informe o telefone ou celular" id="telefone" required data-validation-required-message="Por favor insere o número telefone">
+                                <input type="tel" class="form-control" name="telefone" placeholder="Informe o telefone ou celular" id="telefone" required data-validation-required-message="Por favor insere o número telefone">
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
                                 <label>Mensagem</label>
-                                <textarea rows="5" class="form-control" placeholder="Informe a mensagem" id="message" required data-validation-required-message="Informe a mensagem."></textarea>
+                                <textarea rows="5" name="mensagem" class="form-control" placeholder="Informe a mensagem" id="message" required data-validation-required-message="Informe a mensagem."></textarea>
                                 <p class="help-block text-danger"></p>
                             </div>
                         </div>

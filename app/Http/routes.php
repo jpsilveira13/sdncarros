@@ -15,6 +15,8 @@ Route::get('/', function () {
     return view('site.principal');
 });
 
+Route::post('contato-home','SiteController@contatoHome');
+
 
 Route::get('venda',[
     'uses' => 'SiteController@cotacao',

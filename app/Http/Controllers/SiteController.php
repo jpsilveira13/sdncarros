@@ -19,7 +19,7 @@ class SiteController extends Controller
     private $cotacao;
     public function __construct(Cotacao $cotacao)
     {
-       $this->cotacao = $cotacao;
+        $this->cotacao = $cotacao;
     }
 
     public function cotacao()
@@ -93,7 +93,7 @@ class SiteController extends Controller
             ));
         }else {
 
-                $cotacao = Cotacao::create($userData);
+            $cotacao = Cotacao::create($userData);
             if($cotacao) {
 
                 //return success  message
@@ -137,7 +137,7 @@ class SiteController extends Controller
             $mail = \Mail::send('emails.contactCotacao',$userData,function($message) use ($userData){
                 $message->from('naoresponder@sdncar.com.br', 'Sdn Car | Vendas em 24h');
 
-                $message->to('samotinho@gmail.com');
+                $message->to('contato@sdncar.com.br');
                 $message->subject('Sdn Car, enviou uma mensagem para você ');
             });
             $cotacao = Cotacao::find($userData['id']);
@@ -161,6 +161,47 @@ class SiteController extends Controller
         return view('site/lista',compact('veiculos'));
     }
 
+    public function contatoHome(){
+
+        $inputData = Input::get('formData');
+
+
+        parse_str($inputData, $formFields);
+        $userData = array(
+            'nome'                              =>  $formFields['nome'],
+            'email'                             =>  $formFields['email'],
+            'telefone'                          =>  $formFields['telefone'],
+            'mensagem'                          =>  $formFields['mensagem'],
+
+        );
+
+        $rules = array(
+            'nome'                       =>  'required',
+            'email'                      =>  'required',
+        );
+
+
+        $validator = Validator::make($userData,$rules);
+        if($validator->fails()){
+            return Response::json(array(
+                'fail' => true,
+                'errors' => $validator->getMessageBag()->toArray()
+            ));
+        }else {
+            $mail = \Mail::send('emails.contactHome',$userData,function($message) use ($userData){
+                $message->from('naoresponder@sdncar.com.br', 'Sdn Car | Vendas em 24h');
+
+                $message->to('contato@sdncar.com.br');
+                $message->subject('Sdn Car, enviou uma mensagem para você ');
+            });
+
+            //return success  message
+            return Response::json(array(
+                'success' => true,
+            ));
+
+        }
+    }
     public function sendEmailTest(){
         \Mail::send('emails.teste', ['msg' => 'hello'], function ($message) {
             $message->from('suporte@sempredanegocio.com.br', 'João Paulo');
