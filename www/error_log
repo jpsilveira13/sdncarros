@@ -1,0 +1,4 @@
+[04-Oct-2016 12:26:44 UTC] PHP Fatal error:  Cannot redeclare class App\Models\Cotacao in /home/sdncarro/app/Models/Marca.php on line 19
+[04-Oct-2016 12:28:08 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Marca' not found in /home/sdncarro/app/Http/Controllers/SiteController.php on line 220
+[04-Oct-2016 12:28:33 UTC] PHP Fatal error:  Cannot redeclare class App\Models\Cotacao in /home/sdncarro/app/Models/Marca.php on line 19
+[04-Oct-2016 12:28:33 UTC] PHP Fatal error:  Cannot redeclare class App\Models\Cotacao in /home/sdncarro/app/Models/Marca.php on line 19

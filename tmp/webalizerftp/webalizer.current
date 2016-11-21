@@ -1,0 +1,239 @@
+# Webalizer V2.23-05 Incremental Data - 10/04/2016 10:28:12
+2016 10 4 10 28 12
+93 93 2 57 0 0 1692721 0 0 1
+1 15 56 3 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+51 51 1436434 1 0 0
+42 42 256287 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+4 4 25752 0
+23 23 94165 0
+15 15 136370 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+51 51 1436434 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+93
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/sdncarro/resources/views/site/principal.blade.php
+0 8 0 86460 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_rotated-flipped.scss
+0 1 0 672 0 0
+/home/sdncarro/app/Models/Ano.php
+0 4 32187328 1538 0 0
+/home/sdncarro/public_html/TesteFipe/fipe_form.php
+0 1 0 1744 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/css/font-awesome.min.css
+0 1 0 29063 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/bordered-pulled.less
+0 1 0 585 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/css/font-awesome.css
+0 1 0 35134 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/rotated-flipped.less
+0 1 0 622 0 0
+/home/sdncarro/public_html/TesteFipe/mesReferencia.php
+0 1 0 395 0 0
+/home/sdncarro/app/Models/Marca.php
+0 3 32201184 746 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/css/bootstrap-theme.min.css
+0 1 0 23409 0 0
+/home/sdncarro/app/Models/Modelo.php
+0 3 0 808 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/larger.less
+0 1 0 370 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/core.less
+0 1 0 452 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/FontAwesome.otf
+0 1 0 124988 0 0
+/home/sdncarro/public_html/TesteFipe/carregarDados.php
+0 1 0 161 0 0
+/home/sdncarro/app/Http/Controllers/SiteController.php
+0 6 0 47878 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.svg
+0 1 0 391622 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_core.scss
+0 1 0 459 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.ttf
+0 1 0 152796 0 0
+/home/sdncarro/public_html/TesteFipe/fipe.sql
+0 1 0 1860 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/mixins.less
+0 1 0 1603 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_path.scss
+0 1 0 783 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/screen-reader.less
+0 1 0 118 0 0
+/home/sdncarro/public_html/TesteFipe/img/ajax_load.gif
+0 1 7218536245078603821 14917 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.woff
+0 1 8463236103752802663 90412 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/list.less
+0 1 0 377 0 0
+/home/sdncarro/public_html/js/site.js
+0 14 0 114841 0 0
+/home/sdncarro/.env
+0 1 0 337 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_screen-reader.scss
+0 1 0 134 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_variables.scss
+0 1 0 20971 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/icons.less
+0 1 0 46249 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.eot
+0 1 0 76518 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/fixed-width.less
+0 1 0 119 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_fixed-width.scss
+0 1 0 120 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.woff2
+0 1 0 71896 0 0
+/home/sdncarro/app/Http/routes.php
+0 4 0 4016 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_stacked.scss
+0 1 0 482 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_larger.scss
+0 1 0 375 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_mixins.scss
+0 1 0 1637 0 0
+/home/sdncarro/public_html/TesteFipe/funcoes.php
+0 1 0 1130 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/animated.less
+0 1 0 713 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/font-awesome.less
+0 1 0 495 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/path.less
+0 1 0 771 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/stacked.less
+0 1 0 476 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_list.scss
+0 1 0 378 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_icons.scss
+0 1 0 46979 0 0
+/home/sdncarro/public_html/TesteFipe/js/fipe.js
+0 1 0 1400 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_animated.scss
+0 1 0 715 0 0
+/home/sdncarro/public_html/TesteFipe/js/jquery.min.js
+0 1 0 97163 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/variables.less
+0 1 0 20890 0 0
+/home/sdncarro/public_html/TesteFipe/fipe_con.php
+0 2 0 10682 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/css/bootstrap.min.css
+0 1 0 121200 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/js/bootstrap.min.js
+0 1 0 37045 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/font-awesome.scss
+0 1 0 430 0 0
+/home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_bordered-pulled.scss
+0 1 0 592 0 0
+/home/sdncarro/public_html/TesteFipe/fipe.php
+0 1 0 3995 0 0
+# End Of Table - urls
+# -sites- (monthly)
+186-210-102-28.xd-dynamic.algarnetsuper.com.br
+0 51 51 1436434 0 0
+-
+186-210-116-81.xd-dynamic.algarnetsuper.com.br
+0 42 42 256287 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+186-210-116-81.xd-dynamic.algarnetsuper.com.br
+0 42 42 256287 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+sdncarro
+0 93 93 1692721 1 0
+# End Of Table - usernames

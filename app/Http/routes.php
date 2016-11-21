@@ -10,10 +10,23 @@
 | and give it the controller to call when that URI is requested.
 |
 */
-
+/*
 Route::get('/', function () {
     return view('site.principal');
-});
+}); */
+
+Route::get('/',[
+    'uses' => 'SiteController@getMarca'
+]);
+
+
+Route::get('/get-modelo',[
+    'uses'=> 'SiteController@getModelo'
+]);
+
+Route::get('/get-ano',[
+    'uses'=> 'SiteController@getAno'
+]);
 
 Route::post('contato-home','SiteController@contatoHome');
 

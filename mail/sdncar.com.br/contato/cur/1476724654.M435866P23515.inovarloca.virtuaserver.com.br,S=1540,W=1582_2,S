@@ -1,0 +1,42 @@
+Return-Path: <contato@sdncar.com.br>
+Received: from inovarloca.virtuaserver.com.br
+	by inovarloca.virtuaserver.com.br (Dovecot) with LMTP id 8YrtGa4HBVjbWwAA2Li/Qg
+	; Mon, 17 Oct 2016 15:17:34 -0200
+Return-path: <contato@sdncar.com.br>
+Envelope-to: contato@sdncar.com.br
+Delivery-date: Mon, 17 Oct 2016 15:17:34 -0200
+Received: from [179.104.202.100] (port=49338 helo=InovarJoaoPC)
+	by inovarloca.virtuaserver.com.br with esmtpsa (TLSv1:AES128-SHA:128)
+	(Exim 4.87)
+	(envelope-from <contato@sdncar.com.br>)
+	id 1bwBXZ-0006EQ-Sn
+	for contato@sdncar.com.br; Mon, 17 Oct 2016 15:17:34 -0200
+From: "Microsoft Outlook" <contato@sdncar.com.br>
+Sender: "Microsoft Outlook" <contato@sdncar.com.br>
+To: "Comercial SDN" <contato@sdncar.com.br>
+Subject: Mensagem de Teste do Microsoft Outlook
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0014_01D22889.95C03D00"
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0014_01D22889.95C03D00
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Este =C3=A9 um email enviado automaticamente pelo Microsoft Outlook =
+durante o teste das configura=C3=A7=C3=B5es da sua conta.
+
+------=_NextPart_000_0014_01D22889.95C03D00
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Este =C3=A9 um email enviado automaticamente pelo =
+Microsoft Outlook durante o teste das configura=C3=A7=C3=B5es da sua =
+conta.
+</p></body></html>
+------=_NextPart_000_0014_01D22889.95C03D00--
+

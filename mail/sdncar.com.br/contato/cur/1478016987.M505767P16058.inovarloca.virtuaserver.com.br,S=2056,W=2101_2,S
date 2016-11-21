@@ -1,0 +1,45 @@
+Return-Path: <igauto@uol.com.br>
+Received: from inovarloca.virtuaserver.com.br
+	by inovarloca.virtuaserver.com.br (Dovecot) with LMTP id CfsVHtu/GFi6PgAA2Li/Qg
+	; Tue, 01 Nov 2016 14:16:27 -0200
+Return-path: <igauto@uol.com.br>
+Envelope-to: contato@sdncar.com.br
+Delivery-date: Tue, 01 Nov 2016 14:16:27 -0200
+Received: from a4-shark3.uol.com.br ([200.147.97.208]:35125)
+	by inovarloca.virtuaserver.com.br with esmtp (Exim 4.87)
+	(envelope-from <igauto@uol.com.br>)
+	id 1c1bje-0004Jm-R0
+	for contato@sdncar.com.br; Tue, 01 Nov 2016 14:16:27 -0200
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a4-shark3.uol.com.br (Postfix) with ESMTP id D8F293800094
+	for <contato@sdncar.com.br>; Tue,  1 Nov 2016 14:15:59 -0200 (BRST)
+Received: from a4-shark3.host.intranet (localhost.localdomain [127.0.0.1])
+	by a4-shark3.uol.com.br (Postfix) with ESMTP id 9CC633800099
+	for <contato@sdncar.com.br>; Tue,  1 Nov 2016 14:15:57 -0200 (BRST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uol.com.br; s=ubz;
+	t=1478016959; bh=/ikzAkYs3TrNsL5ON00Tu/Ge8QYu/QLW3+XRI8B/iro=;
+	h=Date:From:To:In-Reply-To:References:Subject;
+	b=IsYxAOdvCnHIuZzzwIHmwxWrEGyMbDIUxvAosTSBqFiuABJXtBQZH5J+uZ1YZhnnt
+	 fRwGUsGF0VsmFE7PtbLstAMIjFRgvi/GN31of0apH8OrWP0JfrRRHO+2Y6cKVMvQYX
+	 RruOh3Tn2ng3w3eQNZ2FzKrS/gxoP8qb1V+Bc2Bc=
+Received: from uol.com.br (a4-weasel4.host.intranet [10.131.133.69])
+	by a4-shark3.host.intranet (Postfix) with ESMTP id BA3F23800084
+	for <contato@sdncar.com.br>; Tue,  1 Nov 2016 14:15:57 -0200 (BRST)
+Date: Tue, 01 Nov 2016 14:15:57 -0200
+From: igauto <igauto@uol.com.br>
+To: contato@sdncar.com.br
+Message-ID: <5818bfbdb26bd_7fe61569e165d3e8536d6@a4-weasel4.mail>
+In-Reply-To: 
+References: 
+Subject: Duvida
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-SenderIP: 201.0.38.45
+X-SIG5: 8cdcee207fa9e2660cc3283d0ddb329d
+
+<div>Boa Tarde , sou lorgista em igarapava, como funciona , vcs oferecem =
+os veiculos que anunciam para vc para logista ?</div>
+<div>=C2=A0</div>
+<div>=C2=A0</div>=

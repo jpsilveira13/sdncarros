@@ -3,6 +3,9 @@
 namespace App\Http\Controllers;
 
 use App\Models\Cotacao;
+use App\Models\Marca;
+use App\Models\Modelo;
+use App\Models\Ano;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Http\Request;
 
@@ -58,27 +61,30 @@ class SiteController extends Controller
         $userData['valor'] = str_replace("R$ ","",$userData['valor']);
         $valorNovo = floatval($userData['valor']) ;
         if($userData['km'] == 20000){
+            $userData['valor_min'] = $valorNovo * 0.70;
+            $userData['valor_max'] = $valorNovo * 0.90;
+        }elseif ($userData['km'] == 40000){
+            $userData['valor_min'] = $valorNovo * 0.69;
+            $userData['valor_max'] = $valorNovo * 0.89;
+        }elseif ($userData['km'] == 60000){
+            $userData['valor_min'] = $valorNovo * 0.68;
+            $userData['valor_max'] = $valorNovo * 0.88;
+        }elseif ($userData['km'] == 80000){
+            $userData['valor_min'] = $valorNovo * 0.67;
+            $userData['valor_max'] = $valorNovo * 0.87;
+        }elseif ($userData['km'] == 100000){
+            $userData['valor_min'] = $valorNovo * 0.66;
+            $userData['valor_max'] = $valorNovo * 0.86;
+        }elseif ($userData['km'] == 120000){
             $userData['valor_min'] = $valorNovo * 0.64;
             $userData['valor_max'] = $valorNovo * 0.84;
-        }elseif ($userData['km'] == 40000){
-            $userData['valor_min'] = $valorNovo * 0.63;
-            $userData['valor_max'] = $valorNovo * 0.79;
-        }elseif ($userData['km'] == 60000){
-            $userData['valor_min'] = $valorNovo * 0.62;
-            $userData['valor_max'] = $valorNovo * 0.78;
-        }elseif ($userData['km'] == 80000){
-            $userData['valor_min'] = $valorNovo * 0.61;
-            $userData['valor_max'] = $valorNovo * 0.77;
-        }elseif ($userData['km'] == 100000){
-            $userData['valor_min'] = $valorNovo * 0.60;
-            $userData['valor_max'] = $valorNovo * 0.76;
-        }elseif ($userData['km'] == 120000){
-            $userData['valor_min'] = $valorNovo * 0.58;
-            $userData['valor_max'] = $valorNovo * 0.74;
         }else{
-            $userData['valor_min'] = $valorNovo * 0.56;
-            $userData['valor_max'] = $valorNovo * 0.72;
+            $userData['valor_min'] = $valorNovo * 0.62;
+            $userData['valor_max'] = $valorNovo * 0.82;
         }
+        $userData['valor_min'] = number_format(round($userData['valor_min'], -2), 2, '.', '');
+        $userData['valor_max'] = number_format(round($userData['valor_max'], -2), 2, '.', '');
+
         $rules = array(
             'nome'                    =>  'required',
             'email'                   =>  'required',
@@ -202,6 +208,7 @@ class SiteController extends Controller
 
         }
     }
+
     public function sendEmailTest(){
         \Mail::send('emails.teste', ['msg' => 'hello'], function ($message) {
             $message->from('suporte@sempredanegocio.com.br', 'João Paulo');
@@ -210,6 +217,23 @@ class SiteController extends Controller
         });
 
         var_dump('sent');
+    }
+
+    public function getMarca(){
+        $marcas = Marca::orderBy('marca','asc')->get();
+
+        return view('site.principal',compact('marcas'));
+    }
+
+    public function getModelo(){
+        $marca_id = Input::get('marca_id');
+        $modelo = Modelo::where('codigo_marca','=',$marca_id)->orderBy('modelo','asc')->get();
+        return Response::json($modelo);
+    }
+    public function getAno(){
+        $modelo_id = Input::get('modelo_id');
+        $query = Ano::where('codigo_modelo','=',$modelo_id)->orderBy('ano','asc')->get();
+        return Response::json($query);
     }
 
 }

@@ -1,0 +1,162 @@
+# Webalizer V2.23-05 Incremental Data - 11/20/2016 03:44:25
+2016 11 20 3 44 25
+12 9 10 2 1 3 271755 7 7 0
+2 2 2 14 20
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 16315 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 16315 2 1 1
+3 3 111405 3 3 3
+3 3 111405 3 3 3
+2 1 16315 2 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 1 16315 0
+0 0 0 0
+0 0 0 0
+2 1 16315 0
+0 0 0 0
+0 0 0 0
+2 1 16315 1
+1 1 37167 1
+1 1 37151 1
+1 1 37087 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 74238 2
+1 1 37167 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 6 7814716426037852777 222810 6 0
+/robots.txt
+0 3 0 72 0 0
+# End Of Table - urls
+# -sites- (monthly)
+jobqueue-listener.jobqueue.netcraft.com-u6b298dffde1a405e8df1b4704312e2fcu-digitalocean
+0 1 1 37087 1 1479546071
+/
+jobqueue-listener.jobqueue.netcraft.com-u101f0d7e283d45c7a207221e4e053680u-digitalocean
+0 1 1 37167 1 1479541903
+/
+104.131.76.1
+0 1 1 37167 1 1479485280
+/
+crawl-66-249-73-158.googlebot.com
+0 2 2 48 0 0
+-
+159.203.171.221
+0 1 1 37151 1 1479483763
+/
+jobqueue-listener.jobqueue.netcraft.com-u5ad4e72d48a3474f94e8e7f3c3bdd8f4u-digitalocean
+0 1 1 37151 1 1479544799
+/
+rate-limited-proxy-209-85-238-13.google.com
+0 1 0 16291 1 1479364619
+-
+138.197.10.169
+0 1 1 37087 1 1479484037
+/
+crawl-66-249-73-154.googlebot.com
+0 1 0 16291 0 0
+-
+crawl-66-249-73-150.googlebot.com
+0 2 1 16315 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-73-158.googlebot.com
+0 1 1 24 0 0
+-
+crawl-66-249-73-154.googlebot.com
+0 1 0 16291 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 12
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 5
+AdsBot-Google (+http://www.google.com/adsbot.html)
+0 1
+Netcraft SSL Server Survey - contact info@netcraft.com
+0 6
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
