@@ -19,6 +19,7 @@ Route::get('/',[
     'uses' => 'SiteController@getMarca'
 ]);
 
+Route::post('/get-visto','SiteController@visto');
 
 Route::get('/get-modelo',[
     'uses'=> 'SiteController@getModelo'

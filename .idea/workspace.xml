@@ -2,17 +2,169 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e4769d1-cb39-4285-99a9-b891b79edfb7" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/img/portfolio/bg1.jpg" afterPath="$PROJECT_DIR$/public/img/portfolio/bg1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/sdncar.com.br-Nov-2016.gz" afterPath="$PROJECT_DIR$/logs/sdncar.com.br-Nov-2016.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/dovecot.index.cache" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/dovecot.index.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/browrep.png" afterPath="$PROJECT_DIR$/tmp/analog/browrep.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/browsum.png" afterPath="$PROJECT_DIR$/tmp/analog/browsum.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/code.png" afterPath="$PROJECT_DIR$/tmp/analog/code.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/dir.png" afterPath="$PROJECT_DIR$/tmp/analog/dir.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/failref.png" afterPath="$PROJECT_DIR$/tmp/analog/failref.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/org.png" afterPath="$PROJECT_DIR$/tmp/analog/org.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/os.png" afterPath="$PROJECT_DIR$/tmp/analog/os.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/refsite.png" afterPath="$PROJECT_DIR$/tmp/analog/refsite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/req.png" afterPath="$PROJECT_DIR$/tmp/analog/req.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/type.png" afterPath="$PROJECT_DIR$/tmp/analog/type.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/ctry_usage_201611.png" afterPath="$PROJECT_DIR$/tmp/webalizer/ctry_usage_201611.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/daily_usage_201611.png" afterPath="$PROJECT_DIR$/tmp/webalizer/daily_usage_201611.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/dns_cache.db" afterPath="$PROJECT_DIR$/tmp/webalizer/dns_cache.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/hourly_usage_201611.png" afterPath="$PROJECT_DIR$/tmp/webalizer/hourly_usage_201611.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/usage.png" afterPath="$PROJECT_DIR$/tmp/webalizer/usage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizerftp/dns_cache.db" afterPath="$PROJECT_DIR$/tmp/webalizerftp/dns_cache.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizerftp/usage.png" afterPath="$PROJECT_DIR$/tmp/webalizerftp/usage.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Models/Cotacao.php" afterPath="$PROJECT_DIR$/app/Models/Cotacao.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473905446.M960505P20110.inovarloca.virtuaserver.com.br,S=2766,W=2843_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473905446.M960505P20110.inovarloca.virtuaserver.com.br,S=2766,W=2843_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473906776.M291054P20110.inovarloca.virtuaserver.com.br,S=2759,W=2836_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473906776.M291054P20110.inovarloca.virtuaserver.com.br,S=2759,W=2836_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473906826.M404625P20110.inovarloca.virtuaserver.com.br,S=2733,W=2810_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473906826.M404625P20110.inovarloca.virtuaserver.com.br,S=2733,W=2810_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473906862.M729237P20110.inovarloca.virtuaserver.com.br,S=2749,W=2826_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473906862.M729237P20110.inovarloca.virtuaserver.com.br,S=2749,W=2826_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473928163.M952184P8804.inovarloca.virtuaserver.com.br,S=2783,W=2861_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473928163.M952184P8804.inovarloca.virtuaserver.com.br,S=2783,W=2861_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473952170.M11622P32044.inovarloca.virtuaserver.com.br,S=2781,W=2859_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473952170.M11622P32044.inovarloca.virtuaserver.com.br,S=2781,W=2859_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473952188.M305633P32044.inovarloca.virtuaserver.com.br,S=2781,W=2859_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1473952188.M305633P32044.inovarloca.virtuaserver.com.br,S=2781,W=2859_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474074417.M553141P2412.inovarloca.virtuaserver.com.br,S=2764,W=2841_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474074417.M553141P2412.inovarloca.virtuaserver.com.br,S=2764,W=2841_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474291778.M886259P8263.inovarloca.virtuaserver.com.br,S=2763,W=2840_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474291778.M886259P8263.inovarloca.virtuaserver.com.br,S=2763,W=2840_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474312428.M673244P8019.inovarloca.virtuaserver.com.br,S=2941,W=3021_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474312428.M673244P8019.inovarloca.virtuaserver.com.br,S=2941,W=3021_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474375211.M107969P31164.inovarloca.virtuaserver.com.br,S=2766,W=2843_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474375211.M107969P31164.inovarloca.virtuaserver.com.br,S=2766,W=2843_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474378116.M610401P7369.inovarloca.virtuaserver.com.br,S=2763,W=2840_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474378116.M610401P7369.inovarloca.virtuaserver.com.br,S=2763,W=2840_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474464908.M538050P31859.inovarloca.virtuaserver.com.br,S=2784,W=2862_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474464908.M538050P31859.inovarloca.virtuaserver.com.br,S=2784,W=2862_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474464908.M575332P31859.inovarloca.virtuaserver.com.br,S=2784,W=2862_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474464908.M575332P31859.inovarloca.virtuaserver.com.br,S=2784,W=2862_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474470935.M534257P665.inovarloca.virtuaserver.com.br,S=2746,W=2823_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474470935.M534257P665.inovarloca.virtuaserver.com.br,S=2746,W=2823_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474547510.M649320P9456.inovarloca.virtuaserver.com.br,S=2821,W=2899_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474547510.M649320P9456.inovarloca.virtuaserver.com.br,S=2821,W=2899_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474568919.M727538P18673.inovarloca.virtuaserver.com.br,S=2763,W=2840_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474568919.M727538P18673.inovarloca.virtuaserver.com.br,S=2763,W=2840_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474657919.M895385P24624.inovarloca.virtuaserver.com.br,S=28863,W=29360_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474657919.M895385P24624.inovarloca.virtuaserver.com.br,S=28863,W=29360_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474679277.M185200P9427.inovarloca.virtuaserver.com.br,S=2711,W=2787_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474679277.M185200P9427.inovarloca.virtuaserver.com.br,S=2711,W=2787_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474721950.M938440P31862.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474721950.M938440P31862.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474722934.M790261P31862.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1474722934.M790261P31862.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475013826.M295948P10176.inovarloca.virtuaserver.com.br,S=2696,W=2772_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475013826.M295948P10176.inovarloca.virtuaserver.com.br,S=2696,W=2772_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475087458.M861378P18317.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475087458.M861378P18317.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475185243.M142733P28757.inovarloca.virtuaserver.com.br,S=2682,W=2758_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475185243.M142733P28757.inovarloca.virtuaserver.com.br,S=2682,W=2758_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475185327.M405010P28757.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475185327.M405010P28757.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475590168.M493944P14257.inovarloca.virtuaserver.com.br,S=3733,W=3843_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475590168.M493944P14257.inovarloca.virtuaserver.com.br,S=3733,W=3843_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475595130.M787511P4588.inovarloca.virtuaserver.com.br,S=31077,W=31602_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475595130.M787511P4588.inovarloca.virtuaserver.com.br,S=31077,W=31602_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475606171.M722722P28742.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1475606171.M722722P28742.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476110575.M383567P19883.inovarloca.virtuaserver.com.br,S=3701,W=3811_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476110575.M383567P19883.inovarloca.virtuaserver.com.br,S=3701,W=3811_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476129175.M34392P17050.inovarloca.virtuaserver.com.br,S=3740,W=3850_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476129175.M34392P17050.inovarloca.virtuaserver.com.br,S=3740,W=3850_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476191567.M824888P25401.inovarloca.virtuaserver.com.br,S=3735,W=3845_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476191567.M824888P25401.inovarloca.virtuaserver.com.br,S=3735,W=3845_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476193476.M143652P28914.inovarloca.virtuaserver.com.br,S=3735,W=3845_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476193476.M143652P28914.inovarloca.virtuaserver.com.br,S=3735,W=3845_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476193720.M868938P28914.inovarloca.virtuaserver.com.br,S=3735,W=3845_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476193720.M868938P28914.inovarloca.virtuaserver.com.br,S=3735,W=3845_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476203878.M944918P29603.inovarloca.virtuaserver.com.br,S=3738,W=3848_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476203878.M944918P29603.inovarloca.virtuaserver.com.br,S=3738,W=3848_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476359349.M450819P12523.inovarloca.virtuaserver.com.br,S=3736,W=3846_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476359349.M450819P12523.inovarloca.virtuaserver.com.br,S=3736,W=3846_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476369518.M718022P11127.inovarloca.virtuaserver.com.br,S=3735,W=3845_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476369518.M718022P11127.inovarloca.virtuaserver.com.br,S=3735,W=3845_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476386006.M180531P5952.inovarloca.virtuaserver.com.br,S=3723,W=3833_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476386006.M180531P5952.inovarloca.virtuaserver.com.br,S=3723,W=3833_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476450591.M277758P12219.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476450591.M277758P12219.inovarloca.virtuaserver.com.br,S=2718,W=2795_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476451838.M717463P12219.inovarloca.virtuaserver.com.br,S=3717,W=3827_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476451838.M717463P12219.inovarloca.virtuaserver.com.br,S=3717,W=3827_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706599.M756410P5303.inovarloca.virtuaserver.com.br,S=2670,W=2746_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706599.M756410P5303.inovarloca.virtuaserver.com.br,S=2670,W=2746_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706837.M430637P5303.inovarloca.virtuaserver.com.br,S=2700,W=2776_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706837.M430637P5303.inovarloca.virtuaserver.com.br,S=2700,W=2776_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706837.M91877P5303.inovarloca.virtuaserver.com.br,S=2700,W=2776_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706837.M91877P5303.inovarloca.virtuaserver.com.br,S=2700,W=2776_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706838.M120431P5303.inovarloca.virtuaserver.com.br,S=2700,W=2776_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706838.M120431P5303.inovarloca.virtuaserver.com.br,S=2700,W=2776_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706840.M830264P5303.inovarloca.virtuaserver.com.br,S=2700,W=2776_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476706840.M830264P5303.inovarloca.virtuaserver.com.br,S=2700,W=2776_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476713861.M743975P23762.inovarloca.virtuaserver.com.br,S=3727,W=3837_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476713861.M743975P23762.inovarloca.virtuaserver.com.br,S=3727,W=3837_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476724654.M435866P23515.inovarloca.virtuaserver.com.br,S=1540,W=1582_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476724654.M435866P23515.inovarloca.virtuaserver.com.br,S=1540,W=1582_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476812702.M152833P31810.inovarloca.virtuaserver.com.br,S=3739,W=3849_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476812702.M152833P31810.inovarloca.virtuaserver.com.br,S=3739,W=3849_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476976399.M998715P27634.inovarloca,S=2722,W=2799_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1476976399.M998715P27634.inovarloca,S=2722,W=2799_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477018144.M361077P8705.inovarloca,S=2701,W=2777_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477018144.M361077P8705.inovarloca,S=2701,W=2777_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477311894.M289999P12516.inovarloca.virtuaserver.com.br,S=3734,W=3844_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477311894.M289999P12516.inovarloca.virtuaserver.com.br,S=3734,W=3844_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477403320.M731152P22112.inovarloca.virtuaserver.com.br,S=3743,W=3853_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477403320.M731152P22112.inovarloca.virtuaserver.com.br,S=3743,W=3853_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477502019.M374945P760.inovarloca.virtuaserver.com.br,S=3737,W=3847_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477502019.M374945P760.inovarloca.virtuaserver.com.br,S=3737,W=3847_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477508502.M674672P5914.inovarloca.virtuaserver.com.br,S=36860,W=37482_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477508502.M674672P5914.inovarloca.virtuaserver.com.br,S=36860,W=37482_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477586709.M193977P19099.inovarloca.virtuaserver.com.br,S=2715,W=2792_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477586709.M193977P19099.inovarloca.virtuaserver.com.br,S=2715,W=2792_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477596443.M158158P26179.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477596443.M158158P26179.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477599577.M249363P27955.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477599577.M249363P27955.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477681429.M195362P8535.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477681429.M195362P8535.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477695412.M795313P16748.inovarloca.virtuaserver.com.br,S=2683,W=2759_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477695412.M795313P16748.inovarloca.virtuaserver.com.br,S=2683,W=2759_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477746347.M886022P2682.inovarloca.virtuaserver.com.br,S=2853,W=2931_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477746347.M886022P2682.inovarloca.virtuaserver.com.br,S=2853,W=2931_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477766530.M647980P17828.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477766530.M647980P17828.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477768595.M595534P22461.inovarloca.virtuaserver.com.br,S=2706,W=2782_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477768595.M595534P22461.inovarloca.virtuaserver.com.br,S=2706,W=2782_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477918607.M167747P27735.inovarloca.virtuaserver.com.br,S=2704,W=2780_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1477918607.M167747P27735.inovarloca.virtuaserver.com.br,S=2704,W=2780_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478003788.M537266P32125.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478003788.M537266P32125.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478009872.M776115P26548.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478009872.M776115P26548.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478016987.M505767P16058.inovarloca.virtuaserver.com.br,S=2056,W=2101_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478016987.M505767P16058.inovarloca.virtuaserver.com.br,S=2056,W=2101_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478032984.M116318P10810.inovarloca.virtuaserver.com.br,S=2720,W=2797_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478032984.M116318P10810.inovarloca.virtuaserver.com.br,S=2720,W=2797_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478203179.M816904P24610.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478203179.M816904P24610.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478284694.M47799P21783.inovarloca.virtuaserver.com.br,S=3702,W=3812_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478284694.M47799P21783.inovarloca.virtuaserver.com.br,S=3702,W=3812_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478518425.M443776P32638.inovarloca.virtuaserver.com.br,S=3731,W=3841_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478518425.M443776P32638.inovarloca.virtuaserver.com.br,S=3731,W=3841_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478522376.M121747P6556.inovarloca.virtuaserver.com.br,S=2846,W=2924_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478522376.M121747P6556.inovarloca.virtuaserver.com.br,S=2846,W=2924_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478528320.M895682P32516.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478528320.M895682P32516.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478533663.M933773P1813.inovarloca.virtuaserver.com.br,S=2701,W=2777_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478533663.M933773P1813.inovarloca.virtuaserver.com.br,S=2701,W=2777_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478536318.M763245P1813.inovarloca.virtuaserver.com.br,S=2734,W=2811_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478536318.M763245P1813.inovarloca.virtuaserver.com.br,S=2734,W=2811_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478537804.M484410P1813.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478537804.M484410P1813.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478539374.M963698P1813.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478539374.M963698P1813.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478541446.M522375P439.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478541446.M522375P439.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478631037.M941302P25067.inovarloca.virtuaserver.com.br,S=3727,W=3837_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478631037.M941302P25067.inovarloca.virtuaserver.com.br,S=3727,W=3837_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478715338.M848012P23975.inovarloca.virtuaserver.com.br,S=3710,W=3820_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478715338.M848012P23975.inovarloca.virtuaserver.com.br,S=3710,W=3820_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478745233.M22020P27667.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478745233.M22020P27667.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478797739.M348742P24209.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478797739.M348742P24209.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478861442.M745067P29187.inovarloca.virtuaserver.com.br,S=2701,W=2777_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478861442.M745067P29187.inovarloca.virtuaserver.com.br,S=2701,W=2777_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478861443.M986281P29187.inovarloca.virtuaserver.com.br,S=2701,W=2777_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478861443.M986281P29187.inovarloca.virtuaserver.com.br,S=2701,W=2777_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478885949.M960698P3180.inovarloca.virtuaserver.com.br,S=2712,W=2788_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478885949.M960698P3180.inovarloca.virtuaserver.com.br,S=2712,W=2788_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478886356.M997981P3180.inovarloca.virtuaserver.com.br,S=2717,W=2794_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478886356.M997981P3180.inovarloca.virtuaserver.com.br,S=2717,W=2794_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478891147.M671220P17140.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478891147.M671220P17140.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478903027.M500910P11647.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1478903027.M500910P11647.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1479076792.M645952P26600.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/cur/1479076792.M645952P26600.inovarloca.virtuaserver.com.br,S=2719,W=2796_2,S" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/dovecot-quota" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/dovecot-quota" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/dovecot-uidlist" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/dovecot-uidlist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/dovecot.index.log" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/dovecot.index.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/maildirsize" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/maildirsize" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479168955.M76320P21075.inovarloca.virtuaserver.com.br,S=2712,W=2788" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479168955.M76320P21075.inovarloca.virtuaserver.com.br,S=2712,W=2788" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479170068.M171150P30143.inovarloca.virtuaserver.com.br,S=2731,W=2808" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479170068.M171150P30143.inovarloca.virtuaserver.com.br,S=2731,W=2808" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479221271.M807236P6786.inovarloca.virtuaserver.com.br,S=2719,W=2796" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479221271.M807236P6786.inovarloca.virtuaserver.com.br,S=2719,W=2796" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479308325.M300388P15616.inovarloca.virtuaserver.com.br,S=3723,W=3833" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479308325.M300388P15616.inovarloca.virtuaserver.com.br,S=3723,W=3833" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479316248.M862234P6000.inovarloca.virtuaserver.com.br,S=2705,W=2781" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479316248.M862234P6000.inovarloca.virtuaserver.com.br,S=2705,W=2781" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479472158.M974361P16005.inovarloca.virtuaserver.com.br,S=3726,W=3836" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479472158.M974361P16005.inovarloca.virtuaserver.com.br,S=3726,W=3836" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479488547.M470189P19715.inovarloca.virtuaserver.com.br,S=2747,W=2824" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479488547.M470189P19715.inovarloca.virtuaserver.com.br,S=2747,W=2824" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479492076.M526257P31324.inovarloca.virtuaserver.com.br,S=2747,W=2824" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479492076.M526257P31324.inovarloca.virtuaserver.com.br,S=2747,W=2824" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479498887.M432920P11777.inovarloca.virtuaserver.com.br,S=2678,W=2754" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479498887.M432920P11777.inovarloca.virtuaserver.com.br,S=2678,W=2754" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479587380.M398322P14889.inovarloca.virtuaserver.com.br,S=2747,W=2824" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479587380.M398322P14889.inovarloca.virtuaserver.com.br,S=2747,W=2824" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479728916.M979116P24678.inovarloca.virtuaserver.com.br,S=3722,W=3832" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479728916.M979116P24678.inovarloca.virtuaserver.com.br,S=3722,W=3832" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752061.M318787P1276.inovarloca.virtuaserver.com.br,S=2744,W=2821" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752061.M318787P1276.inovarloca.virtuaserver.com.br,S=2744,W=2821" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752061.M799615P1276.inovarloca.virtuaserver.com.br,S=2744,W=2821" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752061.M799615P1276.inovarloca.virtuaserver.com.br,S=2744,W=2821" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752061.M825026P1276.inovarloca.virtuaserver.com.br,S=2744,W=2821" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752061.M825026P1276.inovarloca.virtuaserver.com.br,S=2744,W=2821" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752062.M392728P3717.inovarloca.virtuaserver.com.br,S=2744,W=2821" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752062.M392728P3717.inovarloca.virtuaserver.com.br,S=2744,W=2821" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752063.M66183P1276.inovarloca.virtuaserver.com.br,S=2744,W=2821" afterPath="$PROJECT_DIR$/mail/sdncar.com.br/contato/new/1479752063.M66183P1276.inovarloca.virtuaserver.com.br,S=2744,W=2821" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phpspec.yml" afterPath="$PROJECT_DIR$/phpspec.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/screen-reader.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/screen-reader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_screen-reader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/public/TesteFipe/bootstrap/font-awesome/scss/font-awesome.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/freelancer.css" afterPath="$PROJECT_DIR$/public/css/freelancer.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/freelancer.js" afterPath="$PROJECT_DIR$/public/js/freelancer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/site.js" afterPath="$PROJECT_DIR$/public/js/site.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/less/freelancer.less" afterPath="$PROJECT_DIR$/public/less/freelancer.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/less/mixins.less" afterPath="$PROJECT_DIR$/public/less/mixins.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/less/variables.less" afterPath="$PROJECT_DIR$/public/less/variables.less" />
@@ -47,8 +199,84 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/web.config" afterPath="$PROJECT_DIR$/public/web.config" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/sass/app.scss" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/site/layout.blade.php" afterPath="$PROJECT_DIR$/resources/views/site/layout.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/site/principal.blade.php" afterPath="$PROJECT_DIR$/resources/views/site/principal.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/site/lista.blade.php" afterPath="$PROJECT_DIR$/resources/views/site/lista.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ssl/certs/sdncar_com_br_de78c_e3393_1486511999_a46e6a6c0e101ec89c6e14dfcd977304.crt" afterPath="$PROJECT_DIR$/ssl/certs/sdncar_com_br_de78c_e3393_1486511999_a46e6a6c0e101ec89c6e14dfcd977304.crt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ssl/keys/de78c_e3393_8cb145319d2c7dff9688a22bda3c144d.key" afterPath="$PROJECT_DIR$/ssl/keys/de78c_e3393_8cb145319d2c7dff9688a22bda3c144d.key" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ssl/ssl.db" afterPath="$PROJECT_DIR$/ssl/ssl.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/11.html" afterPath="$PROJECT_DIR$/tmp/analog/11.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/analog/cache" afterPath="$PROJECT_DIR$/tmp/analog/cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/awstats/awstats112016.sdncar.com.br.txt" afterPath="$PROJECT_DIR$/tmp/awstats/awstats112016.sdncar.com.br.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/cpbandwidth/sdncar.com.br-bytes_log" afterPath="$PROJECT_DIR$/tmp/cpbandwidth/sdncar.com.br-bytes_log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/index.html" afterPath="$PROJECT_DIR$/tmp/webalizer/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/ssl/sdncar.com.br/webalizer.current" afterPath="$PROJECT_DIR$/tmp/webalizer/ssl/sdncar.com.br/webalizer.current" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/ssl/sdncar.com.br/webalizer.hist" afterPath="$PROJECT_DIR$/tmp/webalizer/ssl/sdncar.com.br/webalizer.hist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/usage_201611.html" afterPath="$PROJECT_DIR$/tmp/webalizer/usage_201611.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/webalizer.current" afterPath="$PROJECT_DIR$/tmp/webalizer/webalizer.current" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizer/webalizer.hist" afterPath="$PROJECT_DIR$/tmp/webalizer/webalizer.hist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizerftp/index.html" afterPath="$PROJECT_DIR$/tmp/webalizerftp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizerftp/webalizer.current" afterPath="$PROJECT_DIR$/tmp/webalizerftp/webalizer.current" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp/webalizerftp/webalizer.hist" afterPath="$PROJECT_DIR$/tmp/webalizerftp/webalizer.hist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/screen-reader.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/screen-reader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_screen-reader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/www/TesteFipe/bootstrap/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/freelancer.js" afterPath="$PROJECT_DIR$/www/js/freelancer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/less/freelancer.less" afterPath="$PROJECT_DIR$/www/less/freelancer.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/less/mixins.less" afterPath="$PROJECT_DIR$/www/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/less/variables.less" afterPath="$PROJECT_DIR$/www/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/animated.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/core.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/fixed-width.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/font-awesome.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/icons.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/larger.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/list.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/mixins.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/path.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/screen-reader.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/screen-reader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/stacked.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/less/variables.less" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_animated.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_core.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_icons.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_larger.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_list.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_mixins.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_path.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_screen-reader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_stacked.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_variables.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/vendor/font-awesome/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/www/vendor/font-awesome/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/web.config" afterPath="$PROJECT_DIR$/www/web.config" />
     </list>
     <ignored path="bkpsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,11 +297,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2686">
-              <caret line="169" column="26" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
+            <state relative-caret-position="212">
+              <caret line="165" column="57" selection-start-line="165" selection-start-column="57" selection-end-line="165" selection-end-column="57" />
               <folding>
                 <element signature="e#40#63#0#PHP" expanded="true" />
               </folding>
@@ -81,51 +309,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contactHome.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/emails/contactHome.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teste.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/emails/teste.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="204">
+              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contactCotacao.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/emails/contactCotacao.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="34" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="freelancer.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="freelancer.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/js/freelancer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-137">
-              <caret line="163" column="11" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="11" />
+            <state relative-caret-position="266">
+              <caret line="305" column="44" selection-start-line="305" selection-start-column="44" selection-end-line="305" selection-end-column="44" />
+              <folding>
+                <element signature="e#5231#6034#0" expanded="false" />
+                <element signature="e#6087#6826#0" expanded="false" />
+                <element signature="e#6892#8896#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lista.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/site/lista.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-238">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.config" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/web.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cotacao.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Models/Cotacao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -134,8 +366,8 @@
       <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+            <state relative-caret-position="187">
+              <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -154,8 +386,8 @@
       <file leaf-file-name="freelancer.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/css/freelancer.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4947">
-              <caret line="291" column="36" selection-start-line="291" selection-start-column="36" selection-end-line="291" selection-end-column="36" />
+            <state relative-caret-position="529">
+              <caret line="1211" column="17" selection-start-line="1211" selection-start-column="17" selection-end-line="1211" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -164,7 +396,7 @@
       <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/mail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="731">
               <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
               <folding />
             </state>
@@ -189,16 +421,19 @@
         <option value="$PROJECT_DIR$/public/js/mask.min.js" />
         <option value="$PROJECT_DIR$/resources/views/site/resultado.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/site/layout.blade.php" />
-        <option value="$PROJECT_DIR$/public/css/freelancer.css" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/resources/views/emails/teste.blade.php" />
         <option value="$PROJECT_DIR$/config/mail.php" />
         <option value="$PROJECT_DIR$/resources/views/emails/contactCotacao.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/emails/contactHome.blade.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/resources/views/site/principal.blade.php" />
+        <option value="$PROJECT_DIR$/app/Models/Cotacao.php" />
+        <option value="$PROJECT_DIR$/public/css/freelancer.css" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/public/js/freelancerbkp.js" />
         <option value="$PROJECT_DIR$/public/js/freelancer.js" />
+        <option value="$PROJECT_DIR$/resources/views/site/lista.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/SiteController.php" />
       </list>
     </option>
   </component>
@@ -215,10 +450,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="1" />
-    <option name="width" value="1358" />
-    <option name="height" value="726" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -245,7 +480,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,7 +535,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="emails" />
+              <option name="myItemId" value="site" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -318,9 +553,73 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdncarros" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdncarros" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdncarros" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdncarros" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdncarros" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdncarros" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdncarros" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sdncarros" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,18 +697,19 @@
       <workItem from="1473903292325" duration="2319000" />
       <workItem from="1473906564472" duration="445000" />
       <workItem from="1479764492482" duration="2830000" />
+      <workItem from="1480077646560" duration="12737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24332000" />
+    <option name="totallyTimeSpent" value="37069000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="1" width="1358" height="726" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26080477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26061493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -444,32 +744,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2686">
-          <caret line="169" column="26" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
-          <folding>
-            <element signature="e#40#63#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/emails/contactHome.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/emails/teste.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -482,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -498,7 +771,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#5231#6034#0" expanded="false" />
+            <element signature="e#6087#6826#0" expanded="false" />
+            <element signature="e#6892#8896#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -564,7 +841,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -580,7 +856,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2635">
           <caret line="155" column="20" selection-start-line="155" selection-start-column="9" selection-end-line="155" selection-end-column="20" />
-          <folding />
+          <folding>
+            <element signature="e#5231#6034#0" expanded="false" />
+            <element signature="e#6087#6826#0" expanded="false" />
+            <element signature="e#6892#8896#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -638,7 +918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -661,7 +940,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1190">
           <caret line="70" column="31" selection-start-line="70" selection-start-column="31" selection-end-line="70" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="e#5231#6034#0" expanded="false" />
+            <element signature="e#6087#6826#0" expanded="false" />
+            <element signature="e#6892#8896#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -750,7 +1033,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,37 +1052,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/freelancer.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4947">
-          <caret line="291" column="36" selection-start-line="291" selection-start-column="36" selection-end-line="291" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/emails/contactHome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2686">
-          <caret line="169" column="26" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
-          <folding>
-            <element signature="e#40#63#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -814,7 +1070,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
+        <state relative-caret-position="731">
           <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
           <folding />
         </state>
@@ -822,17 +1078,79 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/freelancer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="1211" column="17" selection-start-line="1211" selection-start-column="17" selection-end-line="1211" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/Cotacao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/freelancerbkp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/site/lista.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-238">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/freelancer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-137">
-          <caret line="163" column="11" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="266">
+          <caret line="305" column="44" selection-start-line="305" selection-start-column="44" selection-end-line="305" selection-end-column="44" />
+          <folding>
+            <element signature="e#5231#6034#0" expanded="false" />
+            <element signature="e#6087#6826#0" expanded="false" />
+            <element signature="e#6892#8896#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="165" column="57" selection-start-line="165" selection-start-column="57" selection-end-line="165" selection-end-column="57" />
+          <folding>
+            <element signature="e#40#63#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

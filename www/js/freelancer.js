@@ -68,6 +68,8 @@ $(document).ready(function () {
         }
     });
 
+
+
     $('.data').mask('00/00/0000');
     $('.hora').mask('00:00:00');
     var masks = ['(00) 00000-0000', '(00) 0000-00009'];
@@ -148,9 +150,22 @@ $(document).ready(function () {
 
                 $('#valorMinimo').html('R$ ' + valormin);
                 $('#valorMaximo').html('R$ ' + valormax);
-                $('html, body').animate({scrollTop: 0}, 1000);
+
             } //success
         }); //done
+    });
+
+    $('#btnSalvar').click(function () {
+        swal({
+            title: "Espere!",
+            text: "Um momento que estamos levantando a média do valor do seu veículo dos últimos 7 dias.",
+            timer: 3000,
+            showConfirmButton: false
+        });
+        setTimeout(function(){
+            $('html, body').animate({scrollTop: 0}, 1000);
+        }, 3000);
+
     });
 
     $( "#formContato" ).submit(function( event ) {
@@ -172,16 +187,18 @@ $(document).ready(function () {
                 )
             }
             if(data.success) {
+
                 $('#formContato')[0].reset();
                 swal(
                     'Parabéns!',
                     'Seu contato foi efetuado com sucesso. Logo entraremos em contato!',
                     'success'
                 )
-                $('html, body').animate({scrollTop: 0}, 1000);
+
             } //success
         }); //done
-    });
+    })
+
 
     $( "#agendamento" ).submit(function( event ) {
 
@@ -200,6 +217,7 @@ $(document).ready(function () {
                 });
 
             }
+
             if(data.success) {
 
                 swal(
@@ -210,6 +228,7 @@ $(document).ready(function () {
 
             } //success
         }); //done
+
     });
     (function($) {
         'use strict';

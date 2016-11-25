@@ -1,11 +1,7 @@
-# Webalizer V2.23-05 Incremental Data - 10/04/2016 10:28:12
-2016 10 4 10 28 12
-93 93 2 57 0 0 1692721 0 0 1
-1 15 56 3 4
-0 0 0 0 0 0
-0 0 0 0 0 0
-51 51 1436434 1 0 0
-42 42 256287 1 0 0
+# Webalizer V2.23-05 Incremental Data - 11/21/2016 20:27:43
+2016 11 21 20 27 43
+614 614 1 474 0 0 19020446 51 1 1
+1 9 620 21 21
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -23,6 +19,10 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+614 614 19020446 1 51 1
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -41,26 +41,26 @@
 0 0 0 0
 0 0 0 0
 0 0 0 0
-4 4 25752 0
-23 23 94165 0
-15 15 136370 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-0 0 0 0
-51 51 1436434 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+605 605 18940708 51
+9 9 79738 0
 0 0 0 0
 0 0 0 0
 0 0 0 0
 0
 0
 0
-93
+614
 0
 0
 0
@@ -99,133 +99,964 @@
 0
 0
 # -urls- 
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1473906776.M291054P20110.inovarloca.virtuaserver.com.br,S
+0 1 24858848 2759 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478797739.M348742P24209.inovarloca.virtuaserver.com.br,S
+0 1 24843904 2719 0 0
+/home/sdncarro/config/broadcasting.php
+0 1 24835424 1456 0 0
 /home/sdncarro/resources/views/site/principal.blade.php
-0 8 0 86460 0 0
+0 1 24864368 11249 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476451838.M717463P12219.inovarloca.virtuaserver.com.br,S
+0 1 24851744 3717 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477695412.M795313P16748.inovarloca.virtuaserver.com.br,S
+0 1 24848128 2683 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_rotated-flipped.scss
-0 1 0 672 0 0
+0 2 24888752 1344 0 0
+/home/sdncarro/tmp/analog/code.png
+0 1 24873440 2635 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_core.scss
+0 2 0 918 0 0
 /home/sdncarro/app/Models/Ano.php
-0 4 32187328 1538 0 0
+0 1 24832896 315 0 0
+/home/sdncarro/tmp/analog/ssl/sdncar.com.br/11.html
+0 1 24875056 23995 0 0
+/home/sdncarro/public_html/img/portfolio/bg2.jpg
+0 2 24893136 59086 0 0
 /home/sdncarro/public_html/TesteFipe/fipe_form.php
-0 1 0 1744 0 0
+0 2 24883040 3598 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478861442.M745067P29187.inovarloca.virtuaserver.com.br,S
+0 1 24843712 2701 0 0
+/home/sdncarro/storage/framework/sessions/26de1fe9191f1ac9f485d8a63cc828db5eb8a58a
+0 1 24868832 197 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478003788.M537266P32125.inovarloca.virtuaserver.com.br,S
+0 1 24847168 2719 0 0
+/home/sdncarro/storage/framework/sessions/948a2183c1e0652fc24b4ac80f1ffa3dbbd1e0d9
+0 1 24867248 261 0 0
+/home/sdncarro/public_html/
+0 2 24882240 3688 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/css/font-awesome.min.css
-0 1 0 29063 0 0
+0 2 24884096 58134 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479472158.M974361P16005.inovarloca.virtuaserver.com.br,S
+0 1 24861152 3726 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.Junk/dovecot.index.log
+0 1 0 168 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/bordered-pulled.less
-0 1 0 585 0 0
+0 2 24887696 1170 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot.index.log
+0 1 0 1792 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479168955.M76320P21075.inovarloca.virtuaserver.com.br,S
+0 1 24862112 2712 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478631037.M941302P25067.inovarloca.virtuaserver.com.br,S
+0 1 24844480 3727 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_screen-reader.scss
+0 2 0 268 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/css/font-awesome.css
-0 1 0 35134 0 0
+0 2 24884272 74666 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.Trash/dovecot.index.log
+0 1 0 168 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1473906862.M729237P20110.inovarloca.virtuaserver.com.br,S
+0 1 24858464 2749 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/rotated-flipped.less
-0 1 0 622 0 0
+0 2 24886112 1244 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.spam/maildirfolder
+0 1 0 0 0 0
+/home/sdncarro/tmp/analog/9.html
+0 1 24873824 63133 0 0
+/home/sdncarro/.env.example
+0 1 24823808 409 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474568919.M727538P18673.inovarloca.virtuaserver.com.br,S
+0 1 24855776 2763 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.Junk/dovecot-uidlist
+0 1 0 52 0 0
+/home/sdncarro/tmp/analog/size.png
+0 1 24872416 2782 0 0
+/home/sdncarro/config/queue.php
+0 1 24834656 2806 0 0
+/home/sdncarro/config/database.php
+0 1 24835040 4358 0 0
 /home/sdncarro/public_html/TesteFipe/mesReferencia.php
-0 1 0 395 0 0
+0 2 24882752 818 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474074417.M553141P2412.inovarloca.virtuaserver.com.br,S
+0 1 24857696 2764 0 0
 /home/sdncarro/app/Models/Marca.php
-0 3 32201184 746 0 0
+0 1 24832512 267 0 0
+/home/sdncarro/config/session.php
+0 1 24834272 5454 0 0
+/home/sdncarro/app/Providers/RouteServiceProvider.php
+0 1 24833152 1084 0 0
+/home/sdncarro/etc/sdncar.com.br/@pwcache/naoresponder
+0 1 24837920 208 0 0
+/home/sdncarro/app/Http/Middleware/EncryptCookies.php
+0 1 24831696 317 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/css/bootstrap-theme.min.css
-0 1 0 23409 0 0
+0 2 24883760 46828 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1475590168.M493944P14257.inovarloca.virtuaserver.com.br,S
+0 1 24854240 3733 0 0
+/home/sdncarro/tmp/webalizerftp/webalizer.current
+0 1 24880272 6223 0 0
+/home/sdncarro/resources/lang/en/auth.php
+0 1 24863184 636 0 0
 /home/sdncarro/app/Models/Modelo.php
-0 3 0 808 0 0
+0 1 24832640 288 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474657919.M895385P24624.inovarloca.virtuaserver.com.br,S
+0 1 24855968 28863 0 0
+/home/sdncarro/tmp/webalizer/webalizer.hist
+0 1 24876288 2934 0 0
+/home/sdncarro/.ftpquota
+0 1 24823568 15 0 0
+/home/sdncarro/artisan
+0 1 24824432 1697 1 0
+/home/sdncarro/tmp/webalizer/
+0 1 24877136 5000 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/larger.less
-0 1 0 370 0 0
+0 2 24886816 740 0 0
+/home/sdncarro/tmp/webalizer/ssl/sdncar.com.br/hourly_usage_201611.png
+0 1 0 1823 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.spam/dovecot.index.log
+0 1 0 168 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1475185327.M405010P28757.inovarloca.virtuaserver.com.br,S
+0 1 24854432 2718 0 0
+/home/sdncarro/storage/framework/.gitignore
+0 1 24865424 99 0 0
+/home/sdncarro/config/auth.php
+0 1 24835552 2339 0 0
+/home/sdncarro/public_html/img/profile.png
+0 2 24892128 20568 0 0
+/home/sdncarro/tmp/webalizer/usage.png
+0 1 24877008 2668 0 0
+/home/sdncarro/public_html/img/favicon.ico
+0 2 24892704 8572 0 0
+/home/sdncarro/tmp/webalizerftp/ctry_usage_201609.png
+0 1 24881840 2174 0 0
+/home/sdncarro/tmp/webalizer/ssl/sdncar.com.br/webalizer.hist
+0 1 0 2865 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/core.less
-0 1 0 452 0 0
+0 2 24887520 904 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479492076.M526257P31324.inovarloca.virtuaserver.com.br,S
+0 1 24860768 2747 0 0
+/home/sdncarro/tmp/webalizer/ctry_usage_201609.png
+0 1 24878560 3003 0 0
+/home/sdncarro/tmp/webalizer/usage_201609.html
+0 1 24876864 109762 0 0
+/home/sdncarro/database/seeds/.gitkeep
+0 1 24836720 0 0 0
+/home/sdncarro/tmp/webalizerftp/ctry_usage_201610.png
+0 1 24881696 2149 0 0
+/home/sdncarro/logs/ftp.sdncar.com.br-ftp_log-Oct-2016.gz
+0 1 0 231 0 0
+/home/sdncarro/tmp/analog/11.html
+0 1 24874080 76855 0 0
+/home/sdncarro/app/Console/Commands/Inspire.php
+0 1 24825696 635 0 0
+/home/sdncarro/tmp/webalizer/usage_201611.html
+0 1 24876576 108907 0 0
+/home/sdncarro/tmp/analog/cache
+0 1 24873952 2712122 0 0
+/home/sdncarro/storage/framework/sessions/bf17e049dad708cc82b6968367ea988787a3899d
+0 1 24866544 479 0 0
+/home/sdncarro/public_html/vendor/font-awesome/css/font-awesome.css
+0 2 0 74666 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/FontAwesome.otf
-0 1 0 124988 0 0
+0 2 24885760 249976 0 0
 /home/sdncarro/public_html/TesteFipe/carregarDados.php
-0 1 0 161 0 0
+0 2 24883616 342 0 0
+/home/sdncarro/etc/cacheid
+0 1 24836976 10 0 0
+/home/sdncarro/mail/sdncar.com.br/naoresponder/maildirsize
+0 1 0 16 0 0
+/home/sdncarro/public_html/js/sweetalert.min.js
+0 2 24893696 33954 0 0
+/home/sdncarro/tmp/awstats/ssl/awstats112016.sdncar.com.br.txt
+0 1 0 6232 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.Drafts/dovecot.index.log
+0 1 0 168 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot-quota
+0 1 24840496 54 0 0
+/home/sdncarro/tmp/analog/refsite.png
+0 1 24872800 2695 0 0
+/home/sdncarro/tmp/webalizerftp/
+0 1 24880848 4368 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477681429.M195362P8535.inovarloca.virtuaserver.com.br,S
+0 1 24848320 2719 0 0
+/home/sdncarro/resources/views/welcome.blade.php
+0 1 24863328 1068 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/maildirsize
+0 1 24839088 843 0 0
+/home/sdncarro/app/Http/Middleware/Authenticate.php
+0 1 24831840 940 0 0
+/home/sdncarro/tmp/awstats/ssl/awstats.sdncar.com.br.conf
+0 1 0 24331 0 0
+/home/sdncarro/storage/framework/views/40717ecb583e933b8de142b2a04206d6
+0 1 0 16427 0 0
+/home/sdncarro/public_html/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf
+0 2 24895952 90808 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot-acl-list
+0 1 0 0 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476191567.M824888P25401.inovarloca.virtuaserver.com.br,S
+0 1 24853280 3735 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476193476.M143652P28914.inovarloca.virtuaserver.com.br,S
+0 1 24853088 3735 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474722934.M790261P31862.inovarloca.virtuaserver.com.br,S
+0 1 24855200 2718 0 0
+/home/sdncarro/storage/framework/sessions/12a77747ebca55f2051351da339be8464fd9726e
+0 1 24869536 261 0 0
+/home/sdncarro/etc/ftpquota
+0 1 24836848 0 0 0
+/home/sdncarro/tmp/webalizer/daily_usage_201611.png
+0 1 24877696 4053 0 0
+/home/sdncarro/public_html/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg
+0 2 24896128 218050 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476359349.M450819P12523.inovarloca.virtuaserver.com.br,S
+0 1 24852512 3736 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.Sent/dovecot.index.log
+0 1 0 168 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1473905446.M960505P20110.inovarloca.virtuaserver.com.br,S
+0 1 24859040 2766 0 0
+/home/sdncarro/bootstrap/cache/services.json
+0 1 24833984 10674 0 0
+/home/sdncarro/storage/framework/sessions/b103108ef251734019be1af9671b29ac7b333e5e
+0 1 24866720 197 0 0
+/home/sdncarro/tmp/webalizer/usage_201610.html
+0 1 24876720 124256 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot-uidlist
+0 1 0 7693 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_mixins.scss
+0 2 0 3274 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_rotated-flipped.scss
+0 2 24901072 1344 0 0
+/home/sdncarro/tmp/analog/org.png
+0 1 24873056 3872 0 0
+/home/sdncarro/public_html/error_log
+0 2 24882496 1150 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477766530.M647980P17828.inovarloca.virtuaserver.com.br,S
+0 1 24847744 2719 0 0
+/home/sdncarro/database/migrations/.gitkeep
+0 1 24836432 0 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.Trash/dovecot-uidlist
+0 1 0 52 0 0
+/home/sdncarro/storage/framework/sessions/2bb87b442780711923504038657c19d1564cd101
+0 1 24868480 197 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479170068.M171150P30143.inovarloca.virtuaserver.com.br,S
+0 1 24861920 2731 0 0
+/home/sdncarro/config/mail.php
+0 1 24834784 4498 0 0
+/home/sdncarro/app/Events/Event.php
+0 1 24825984 70 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474312428.M673244P8019.inovarloca.virtuaserver.com.br,S
+0 1 24857312 2941 0 0
+/home/sdncarro/storage/framework/views/6531a4bb0d2f0e9f46f03d22cd81391d
+0 1 0 1682 0 0
 /home/sdncarro/app/Http/Controllers/SiteController.php
-0 6 0 47878 0 0
+0 1 24830928 8384 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474378116.M610401P7369.inovarloca.virtuaserver.com.br,S
+0 1 24856928 2763 0 0
+/home/sdncarro/public_html/vendor/font-awesome/css/font-awesome.min.css
+0 2 0 58134 0 0
+/home/sdncarro/storage/framework/views/273904c4f650093519ae353372e065bc
+0 1 0 2974 0 0
+/home/sdncarro/public_html/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2
+0 2 24895600 36056 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.svg
-0 1 0 391622 0 0
+0 2 24885024 784612 0 0
+/home/sdncarro/tmp/awstats/awstats112016.sdncar.com.br.txt
+0 1 0 28054 0 0
+/home/sdncarro/tmp/webalizer/hourly_usage_201611.png
+0 1 24877264 2402 0 0
+/home/sdncarro/app/Http/Controllers/Auth/PasswordController.php
+0 1 0 845 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_core.scss
-0 1 0 459 0 0
+0 2 24889984 918 0 0
+/home/sdncarro/.bashrc
+0 1 24823216 242 0 0
+/home/sdncarro/public_html/vendor/jquery/jquery.min.js
+0 2 24902704 194336 0 0
+/home/sdncarro/storage/framework/views/4fd875e27ee4f129ce7a8ee5331b7f32
+0 1 0 15318 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478016987.M505767P16058.inovarloca.virtuaserver.com.br,S
+0 1 24846784 2056 0 0
+/home/sdncarro/app/Jobs/Job.php
+0 1 24831984 556 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478009872.M776115P26548.inovarloca.virtuaserver.com.br,S
+0 1 24846976 2719 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.ttf
-0 1 0 152796 0 0
+0 2 24884832 305592 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477403320.M731152P22112.inovarloca.virtuaserver.com.br,S
+0 1 24849472 3743 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478032984.M116318P10810.inovarloca.virtuaserver.com.br,S
+0 1 24846592 2720 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479728916.M979116P24678.inovarloca.virtuaserver.com.br,S
+0 1 24860192 3722 0 0
+/home/sdncarro/app/Http/Kernel.php
+0 1 24826240 1013 0 0
 /home/sdncarro/public_html/TesteFipe/fipe.sql
-0 1 0 1860 0 0
+0 2 24883184 3852 0 0
+/home/sdncarro/public_html/vendor/font-awesome/fonts/fontawesome-webfont.svg
+0 2 24897648 784612 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477311894.M289999P12516.inovarloca.virtuaserver.com.br,S
+0 1 24849664 3734 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477586709.M193977P19099.inovarloca.virtuaserver.com.br,S
+0 1 24848896 2715 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478518425.M443776P32638.inovarloca.virtuaserver.com.br,S
+0 1 24846016 3731 0 0
+/home/sdncarro/storage/framework/sessions/3085587ba21e18ff463b5810d45483acc620efc4
+0 1 24868304 197 0 0
+/home/sdncarro/logs/sdncar.com.br-Nov-2016.gz
+0 1 24838352 150711 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_animated.scss
+0 2 0 1430 0 0
+/home/sdncarro/config/filesystems.php
+0 1 24834912 2631 0 0
+/home/sdncarro/public_html/vendor/font-awesome/fonts/fontawesome-webfont.eot
+0 2 24897824 153036 0 0
+/home/sdncarro/tmp/analog/searchw.png
+0 1 24872544 3420 0 0
+/home/sdncarro/resources/views/site/resultado.blade.php
+0 1 24864080 10470 0 0
+/home/sdncarro/tmp/analog/browsum.png
+0 1 24873568 2377 0 0
+/home/sdncarro/public_html/img/bgduvidas.png
+0 2 24892848 40662 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_list.scss
+0 2 0 756 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478522376.M121747P6556.inovarloca.virtuaserver.com.br,S
+0 1 24845824 2846 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/mixins.less
-0 1 0 1603 0 0
+0 2 24886464 3206 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot-uidvalidity
+0 1 0 8 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_path.scss
-0 1 0 783 0 0
+0 2 24888928 1566 0 0
+/home/sdncarro/public_html/less/freelancer.less
+0 2 24894992 17434 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/screen-reader.less
-0 1 0 118 0 0
+0 2 24885936 236 0 0
+/home/sdncarro/storage/framework/views/c7d68c6b5c798755640c96d5278e9313
+0 1 0 4 0 0
+/home/sdncarro/public_html/img/portfolio/bg1.jpg
+0 2 24893424 50570 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478541446.M522375P439.inovarloca.virtuaserver.com.br,S
+0 1 24844672 2719 0 0
+/home/sdncarro/database/.gitignore
+0 1 24835808 10 0 0
+/home/sdncarro/storage/app/.gitignore
+0 1 24865568 14 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476450591.M277758P12219.inovarloca.virtuaserver.com.br,S
+0 1 24851936 2718 0 0
+/home/sdncarro/app/Policies/.gitkeep
+0 1 24833024 0 0 0
+/home/sdncarro/config/cache.php
+0 1 24835296 2220 0 0
 /home/sdncarro/public_html/TesteFipe/img/ajax_load.gif
-0 1 7218536245078603821 14917 0 0
+0 2 24890512 29834 0 0
+/home/sdncarro/public_html/img/user-icon.png
+0 2 24891984 1834 0 0
+/home/sdncarro/app/Http/Controllers/Auth/AuthController.php
+0 1 24830944 1842 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.woff
-0 1 8463236103752802663 90412 0 0
+0 2 24884448 180824 0 0
+/home/sdncarro/tmp/analog/ssl/sdncar.com.br/size.png
+0 1 24874480 2207 0 0
+/home/sdncarro/public_html/less/mixins.less
+0 2 24894848 1454 0 0
+/home/sdncarro/storage/framework/sessions/e3b373956587e8de5db7d5cf206164046be418cf
+0 1 24865840 492 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476706599.M756410P5303.inovarloca.virtuaserver.com.br,S
+0 1 24851552 2670 0 0
+/home/sdncarro/tmp/webalizerftp/usage_201609.html
+0 1 24880560 60595 0 0
+/home/sdncarro/tmp/webalizerftp/usage.png
+0 1 24880704 2446 0 0
+/home/sdncarro/app/Providers/EventServiceProvider.php
+0 1 24833296 764 0 0
+/home/sdncarro/ssl/keys/de78c_e3393_8cb145319d2c7dff9688a22bda3c144d.key
+0 1 24865248 1678 0 0
+/home/sdncarro/composer.json
+0 1 24824544 1214 0 0
+/home/sdncarro/tests/TestCase.php
+0 1 24871904 557 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/icons.less
+0 2 0 92498 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474464908.M538050P31859.inovarloca.virtuaserver.com.br,S
+0 1 24856736 2784 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477746347.M886022P2682.inovarloca.virtuaserver.com.br,S
+0 1 24847936 2853 0 0
+/home/sdncarro/storage/framework/sessions/.gitignore
+0 1 24869888 16 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477599577.M249363P27955.inovarloca.virtuaserver.com.br,S
+0 1 24848512 2719 0 0
+/home/sdncarro/logs/ftp.sdncar.com.br-ftp_log-Sep-2016.gz
+0 1 0 78273 0 0
+/home/sdncarro/database/migrations/2014_10_12_100000_create_password_resets_table.php
+0 1 24836080 664 0 0
+/home/sdncarro/.zshrc
+0 1 24824320 692 0 0
+/home/sdncarro/tmp/analog/ssl/sdncar.com.br/org.png
+0 1 24874624 2628 0 0
+/home/sdncarro/tmp/cpbandwidth/sdncar.com.br-bytes_log
+0 1 24876144 51 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476713861.M743975P23762.inovarloca.virtuaserver.com.br,S
+0 1 24850592 3727 0 0
+/home/sdncarro/tmp/webalizerftp/dns_cache.db
+0 1 24881264 12288 0 0
+/home/sdncarro/public_html/js/livequery.min.js
+0 2 24893984 4586 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478885949.M960698P3180.inovarloca.virtuaserver.com.br,S
+0 1 24843520 2712 0 0
+/home/sdncarro/public_html/img/imgemail.png
+0 2 24892560 410002 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476110575.M383567P19883.inovarloca.virtuaserver.com.br,S
+0 1 24853664 3701 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478536318.M763245P1813.inovarloca.virtuaserver.com.br,S
+0 1 24845248 2734 0 0
+/home/sdncarro/storage/framework/views/67c82d17dc7ef3ab704a250c6bac2391
+0 1 0 11511 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477502019.M374945P760.inovarloca.virtuaserver.com.br,S
+0 1 24849088 3737 0 0
+/home/sdncarro/.bash_profile
+0 1 24823088 205 0 0
+/home/sdncarro/public_html/img/videosdn.png
+0 2 24891840 274698 0 0
+/home/sdncarro/public_html/vendor/font-awesome/fonts/fontawesome-webfont.woff
+0 2 24897296 180824 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1479076792.M645952P26600.inovarloca.virtuaserver.com.br,S
+0 1 24842752 2719 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476193720.M868938P28914.inovarloca.virtuaserver.com.br,S
+0 1 24852896 3735 0 0
+/home/sdncarro/tmp/awstats/awstats.sdncar.com.br.conf
+0 1 24875680 24319 0 0
+/home/sdncarro/resources/views/emails/teste.blade.php
+0 1 24863472 4 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1473952188.M305633P32044.inovarloca.virtuaserver.com.br,S
+0 1 24857888 2781 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/list.less
-0 1 0 377 0 0
+0 2 24886640 754 0 0
+/home/sdncarro/app/Listeners/.gitkeep
+0 1 24832256 0 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/core.less
+0 2 0 904 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474547510.M649320P9456.inovarloca.virtuaserver.com.br,S
+0 1 24856160 2821 0 0
+/home/sdncarro/tmp/webalizerftp/daily_usage_201610.png
+0 1 24881408 2741 0 0
+/home/sdncarro/storage/framework/sessions/8a1026424caa7f77049adba1f097484d5bedfb26
+0 1 24867424 286 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476724654.M435866P23515.inovarloca.virtuaserver.com.br,S
+0 1 24850400 1540 0 0
 /home/sdncarro/public_html/js/site.js
-0 14 0 114841 0 0
+0 2 24893568 17280 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot.list.index.log
+0 1 0 1884 0 0
+/home/sdncarro/logs/sdncar.com.br-ssl_log-Nov-2016.gz
+0 1 24838208 875 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_stacked.scss
+0 2 0 964 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/mixins.less
+0 2 0 3206 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476706837.M430637P5303.inovarloca.virtuaserver.com.br,S
+0 1 24851360 2700 0 0
+/home/sdncarro/.bash_logout
+0 1 0 20 0 0
 /home/sdncarro/.env
-0 1 0 337 0 0
+0 1 24823456 337 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476203878.M944918P29603.inovarloca.virtuaserver.com.br,S
+0 1 24852704 3738 0 0
+/home/sdncarro/bootstrap/app.php
+0 1 24833856 1657 0 0
+/home/sdncarro/app/Models/User.php
+0 1 24832384 1137 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_screen-reader.scss
-0 1 0 134 0 0
+0 2 24888576 268 0 0
+/home/sdncarro/database/migrations/2014_10_12_000000_create_users_table.php
+0 1 24836256 737 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1475606171.M722722P28742.inovarloca.virtuaserver.com.br,S
+0 1 24853856 2718 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/list.less
+0 2 0 754 0 0
+/home/sdncarro/public_html/favicon.ico
+0 2 24882368 0 0 0
+/home/sdncarro/tmp/analog/type.png
+0 1 24872288 3703 0 0
+/home/sdncarro/public_html/css/sweetalert.css
+0 2 24891104 47622 0 0
+/home/sdncarro/tmp/webalizer/ssl/sdncar.com.br/ctry_usage_201611.png
+0 1 0 2632 0 0
+/home/sdncarro/config/services.php
+0 1 24834528 1023 0 0
+/home/sdncarro/etc/sdncar.com.br/quota
+0 1 24837520 65 0 0
+/home/sdncarro/storage/framework/views/9a4888eb83fd91d3c3950632afb958b6
+0 1 0 1638 0 0
+/home/sdncarro/public_html/img/logoTopo.png
+0 2 24892272 20438 0 0
+/home/sdncarro/public_html/vendor/bootstrap/css/bootstrap.min.css
+0 2 0 242410 0 0
+/home/sdncarro/storage/framework/sessions/43adb0759f0a6145f44fe8b4051079fa8a2a8c3f
+0 1 24867952 197 0 0
+/home/sdncarro/mail/sdncar.com.br/suporte/maildirsize
+0 1 24862464 16 0 0
+/home/sdncarro/storage/logs/.gitignore
+0 1 24871776 16 0 0
+/home/sdncarro/storage/framework/sessions/34b64747bdb46e612bddacf08be74de506ad43e3
+0 1 24868128 197 0 0
+/home/sdncarro/tmp/webalizerftp/daily_usage_201609.png
+0 1 24881552 2938 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1475185243.M142733P28757.inovarloca.virtuaserver.com.br,S
+0 1 24854624 2682 0 0
+/home/sdncarro/config/app.php
+0 1 24835680 8337 0 0
+/home/sdncarro/public_html/js/mask.min.js
+0 2 24893840 13566 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_variables.scss
-0 1 0 20971 0 0
+0 2 24888224 41942 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/icons.less
-0 1 0 46249 0 0
+0 2 24887168 92498 0 0
+/home/sdncarro/tmp/webalizer/daily_usage_201609.png
+0 1 24877984 3882 0 0
+/home/sdncarro/composer.lock
+0 1 24824672 118740 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/bordered-pulled.less
+0 2 24900096 1170 0 0
+/home/sdncarro/public_html/css/freelancer.min.css
+0 2 24891248 17352 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/font-awesome.scss
+0 2 0 860 0 0
+/home/sdncarro/tmp/analog/dir.png
+0 1 24873312 2756 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474464908.M575332P31859.inovarloca.virtuaserver.com.br,S
+0 1 24856544 2784 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.eot
-0 1 0 76518 0 0
+0 2 24885216 153036 0 0
+/home/sdncarro/bootstrap/cache/.gitignore
+0 1 24834128 16 0 0
+/home/sdncarro/app/Providers/AppServiceProvider.php
+0 1 24833584 431 0 0
+/home/sdncarro/app/Exceptions/Handler.php
+0 1 24825840 1312 0 0
+/home/sdncarro/tmp/webalizer/hourly_usage_201610.png
+0 1 24877408 2401 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474679277.M185200P9427.inovarloca.virtuaserver.com.br,S
+0 1 24855584 2711 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/fixed-width.less
-0 1 0 119 0 0
+0 2 24887344 238 0 0
+/home/sdncarro/app/Http/Requests/Request.php
+0 1 24832112 146 0 0
+/home/sdncarro/config/compile.php
+0 1 24835168 1018 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_path.scss
+0 2 0 1566 0 0
+/home/sdncarro/resources/lang/en/validation.php
+0 1 24862608 5880 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478903027.M500910P11647.inovarloca.virtuaserver.com.br,S
+0 1 24842560 2719 0 0
+/home/sdncarro/server.php
+0 1 24825440 588 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479752061.M318787P1276.inovarloca.virtuaserver.com.br,S
+0 1 24860000 2744 0 0
+/home/sdncarro/storage/framework/sessions/135851cbc53f8f2be46455ca8f1bd52c5466da75
+0 1 24869360 470 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479587380.M398322P14889.inovarloca.virtuaserver.com.br,S
+0 1 24860384 2747 0 0
+/home/sdncarro/readme.md
+0 1 24825312 1928 0 0
+/home/sdncarro/phpunit.xml
+0 1 24825184 1056 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/larger.less
+0 2 0 740 0 0
+/home/sdncarro/public_html/js/contact_me.js
+0 2 24894560 6258 0 0
+/home/sdncarro/public_html/web.config
+0 2 24881984 1814 0 0
+/home/sdncarro/.contactemail
+0 1 24823328 29 0 0
+/home/sdncarro/public_html/robots.txt
+0 2 24882112 52 0 0
+/home/sdncarro/public_html/vendor/bootstrap/js/bootstrap.js
+0 2 0 144168 0 0
+/home/sdncarro/tmp/analog/10.html
+0 1 24874208 69788 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474375211.M107969P31164.inovarloca.virtuaserver.com.br,S
+0 1 24857120 2766 0 0
+/home/sdncarro/tmp/analog/ssl/sdncar.com.br/code.png
+0 1 24874768 2183 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476706837.M91877P5303.inovarloca.virtuaserver.com.br,S
+0 1 24851168 2700 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_fixed-width.scss
-0 1 0 120 0 0
+0 2 24889632 240 0 0
+/home/sdncarro/storage/framework/views/.gitignore
+0 1 24871632 16 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1475087458.M861378P18317.inovarloca.virtuaserver.com.br,S
+0 1 24854816 2718 0 0
+/home/sdncarro/storage/framework/sessions/ddef818ecd8eb391d13de3f6d153ddc0612c75cd
+0 1 24866016 512 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477596443.M158158P26179.inovarloca.virtuaserver.com.br,S
+0 1 24848704 2719 0 0
+/home/sdncarro/resources/views/vendor/.gitkeep
+0 1 24864656 0 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_variables.scss
+0 2 0 41942 0 0
+/home/sdncarro/app/Console/Kernel.php
+0 1 24825568 662 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478203179.M816904P24610.inovarloca.virtuaserver.com.br,S
+0 1 24846400 2719 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1473906826.M404625P20110.inovarloca.virtuaserver.com.br,S
+0 1 24858656 2733 0 0
+/home/sdncarro/tmp/webalizer/daily_usage_201610.png
+0 1 24877840 4077 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/fixed-width.less
+0 2 0 238 0 0
+/home/sdncarro/config/view.php
+0 1 24834400 1053 0 0
+/home/sdncarro/storage/framework/views/f7ffe8bd11a2e9fe2d5fab2bbb84399c
+0 1 0 11916 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474291778.M886259P8263.inovarloca.virtuaserver.com.br,S
+0 1 24857504 2763 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476706838.M120431P5303.inovarloca.virtuaserver.com.br,S
+0 1 24850976 2700 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/fonts/fontawesome-webfont.woff2
-0 1 0 71896 0 0
+0 2 24884640 143792 0 0
+/home/sdncarro/.gemrc
+0 1 24823696 146 0 0
 /home/sdncarro/app/Http/routes.php
-0 4 0 4016 0 0
+0 1 24826112 1137 0 0
+/home/sdncarro/resources/views/errors/503.blade.php
+0 1 24863936 1151 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_fixed-width.scss
+0 2 0 240 0 0
+/home/sdncarro/storage/framework/sessions/af8ded96f1c2105debba375c39270a3fcb27ee4c
+0 1 24866896 197 0 0
+/home/sdncarro/storage/framework/sessions/8314b9ee6f22bc640bb3e538f53f7b23e51851a9
+0 1 24867776 261 0 0
+/home/sdncarro/tmp/awstats/awstats092016.sdncar.com.br.txt
+0 1 0 552125 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478715338.M848012P23975.inovarloca.virtuaserver.com.br,S
+0 1 24844288 3710 0 0
+/home/sdncarro/public_html/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot
+0 2 24896304 40254 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476706840.M830264P5303.inovarloca.virtuaserver.com.br,S
+0 1 24850784 2700 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476369518.M718022P11127.inovarloca.virtuaserver.com.br,S
+0 1 24852320 3735 0 0
+/home/sdncarro/tmp/webalizer/hourly_usage_201609.png
+0 1 24877552 2465 0 0
+/home/sdncarro/tmp/webalizer/ssl/sdncar.com.br/
+0 1 24879344 3765 0 0
+/home/sdncarro/public_html/img/bg-fundo.png
+0 2 24893280 1572964 0 0
+/home/sdncarro/etc/sdncar.com.br/passwd,v
+0 1 24837648 966 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474721950.M938440P31862.inovarloca.virtuaserver.com.br,S
+0 1 24855392 2718 0 0
+/home/sdncarro/public_html/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff
+0 2 24895776 46848 0 0
+/home/sdncarro/resources/lang/en/passwords.php
+0 1 24862896 808 0 0
+/home/sdncarro/tmp/analog/req.png
+0 1 24872672 4578 0 0
+/home/sdncarro/tmp/webalizer/ctry_usage_201610.png
+0 1 24878272 3056 0 0
+/home/sdncarro/package.json
+0 1 24824928 159 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/animated.less
+0 2 0 1426 0 0
+/home/sdncarro/public_html/img/vei-icon.png
+0 2 24891696 2098 0 0
+/home/sdncarro/tmp/webalizerftp/hourly_usage_201610.png
+0 1 24880976 1754 0 0
+/home/sdncarro/etc/sdncar.com.br/quota,v
+0 1 24837376 784 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1473928163.M952184P8804.inovarloca.virtuaserver.com.br,S
+0 1 24858272 2783 0 0
+/home/sdncarro/resources/assets/sass/app.scss
+0 1 24862752 72 0 0
+/home/sdncarro/tmp/webalizer/ctry_usage_201611.png
+0 1 24878128 3303 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_stacked.scss
-0 1 0 482 0 0
+0 2 24888400 964 0 0
+/home/sdncarro/tmp/analog/ssl/sdncar.com.br/cache
+0 1 24874912 1696 0 0
+/home/sdncarro/storage/framework/sessions/d65b405e3e4fce6ba17b9fb1a35dde25fdf6af43
+0 1 24866368 197 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_larger.scss
-0 1 0 375 0 0
+0 2 24889456 750 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.spam/dovecot-uidlist
+0 1 0 52 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_icons.scss
+0 2 0 93958 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_mixins.scss
-0 1 0 1637 0 0
+0 2 24889104 3274 0 0
+/home/sdncarro/.gitignore
+0 1 24824064 62 0 0
+/home/sdncarro/public_html/vendor/font-awesome/fonts/FontAwesome.otf
+0 2 0 249976 0 0
+/home/sdncarro/.gitattributes
+0 1 24823936 64 0 0
+/home/sdncarro/public_html/js/freelancer.js
+0 11 24894416 97162 0 0
 /home/sdncarro/public_html/TesteFipe/funcoes.php
-0 1 0 1130 0 0
+0 2 24882896 2326 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478528320.M895682P32516.inovarloca.virtuaserver.com.br,S
+0 1 24845632 2719 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/path.less
+0 2 0 1542 0 0
+/home/sdncarro/tmp/webalizer/ssl/sdncar.com.br/usage_201611.html
+0 1 0 51412 0 0
+/home/sdncarro/app/Http/Controllers/Controller.php
+0 1 24826368 383 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479488547.M470189P19715.inovarloca.virtuaserver.com.br,S
+0 1 24860960 2747 0 0
+/home/sdncarro/public_html/vendor/font-awesome/fonts/fontawesome-webfont.ttf
+0 2 24897472 305592 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479752062.M392728P3717.inovarloca.virtuaserver.com.br,S
+0 1 24859424 2744 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476386006.M180531P5952.inovarloca.virtuaserver.com.br,S
+0 1 24852128 3723 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/animated.less
-0 1 0 713 0 0
+0 2 24887872 1426 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/font-awesome.less
-0 1 0 495 0 0
+0 2 24886992 990 0 0
+/home/sdncarro/ssl/certs/sdncar_com_br_de78c_e3393_1486511999_a46e6a6c0e101ec89c6e14dfcd977304.crt
+0 1 24865056 1776 0 0
+/home/sdncarro/public_html/vendor/bootstrap/js/bootstrap.min.js
+0 2 0 74102 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1473952170.M11622P32044.inovarloca.virtuaserver.com.br,S
+0 1 24858080 2781 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1475595130.M787511P4588.inovarloca.virtuaserver.com.br,S
+0 1 24854048 31077 0 0
+/home/sdncarro/app/Models/Cotacao.php
+0 1 24832768 448 0 0
+/home/sdncarro/public_html/js/jqBootstrapValidation.js
+0 2 24894272 74184 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479221271.M807236P6786.inovarloca.virtuaserver.com.br,S
+0 1 24861728 2719 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot-uidvalidity.57da032b
+0 1 0 0 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot.index
+0 1 24839712 2480 0 0
+/home/sdncarro/tmp/awstats/awstats102016.sdncar.com.br.txt
+0 1 0 444017 0 0
+/home/sdncarro/storage/framework/views/3732d1886588b749c4f25d3a8a20416f
+0 1 0 9075 0 0
+/home/sdncarro/.lastlogin
+0 1 24824192 217 0 0
+/home/sdncarro/public_html/vendor/jquery/jquery.js
+0 2 24902848 608876 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477918607.M167747P27735.inovarloca.virtuaserver.com.br,S
+0 1 24847360 2704 0 0
+/home/sdncarro/tmp/analog/failref.png
+0 1 24873184 3387 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/variables.less
+0 2 0 41780 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1474470935.M534257P665.inovarloca.virtuaserver.com.br,S
+0 1 24856352 2746 0 0
+/home/sdncarro/etc/sdncar.com.br/shadow,v
+0 1 24837104 1108 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479752063.M66183P1276.inovarloca.virtuaserver.com.br,S
+0 1 24859232 2744 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/path.less
-0 1 0 771 0 0
+0 2 24886288 1542 0 0
+/home/sdncarro/tmp/webalizerftp/hourly_usage_201609.png
+0 1 24881120 1835 0 0
+/home/sdncarro/app/Http/Middleware/VerifyCsrfToken.php
+0 1 24831392 328 0 0
+/home/sdncarro/database/seeds/DatabaseSeeder.php
+0 1 24836576 355 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/stacked.less
-0 1 0 476 0 0
+0 2 24885584 952 0 0
+/home/sdncarro/tmp/webalizer/webalizer.current
+0 1 24876432 63310 0 0
+/home/sdncarro/etc/sdncar.com.br/@pwcache/contato
+0 1 24838064 203 0 0
+/home/sdncarro/public_html/css/freelancer.css
+0 2 24891392 46338 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479498887.M432920P11777.inovarloca.virtuaserver.com.br,S
+0 1 24860576 2678 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_list.scss
-0 1 0 378 0 0
+0 2 24889280 756 0 0
+/home/sdncarro/storage/framework/sessions/24ac2bb302d27c72a228f1b8517f6cb49c50b800
+0 1 24869008 261 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_icons.scss
-0 1 0 46979 0 0
+0 2 24889808 93958 0 0
+/home/sdncarro/public_html/img/logoFace.png
+0 2 24892416 77174 0 0
+/home/sdncarro/public_html/downloads/Termo_de_uso_SDN_Car.docx
+0 2 0 39462 0 0
+/home/sdncarro/resources/views/emails/contactHome.blade.php
+0 1 0 1570 0 0
+/home/sdncarro/tmp/webalizer/dns_cache.db
+0 1 24878416 2670592 0 0
+/home/sdncarro/tests/ExampleTest.php
+0 1 24872160 422 0 0
 /home/sdncarro/public_html/TesteFipe/js/fipe.js
-0 1 0 1400 0 0
+0 2 24890816 2928 0 0
+/home/sdncarro/tmp/analog/os.png
+0 1 24872928 2593 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477768595.M595534P22461.inovarloca.virtuaserver.com.br,S
+0 1 24847552 2706 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/font-awesome.less
+0 2 0 990 0 0
+/home/sdncarro/tmp/webalizer/ssl/sdncar.com.br/dns_cache.db
+0 1 0 12288 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477508502.M674672P5914.inovarloca.virtuaserver.com.br,S
+0 1 24849280 36860 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478539374.M963698P1813.inovarloca.virtuaserver.com.br,S
+0 1 24844864 2719 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_animated.scss
-0 1 0 715 0 0
+0 2 24890336 1430 0 0
+/home/sdncarro/resources/lang/en/pagination.php
+0 1 24863040 557 0 0
+/home/sdncarro/storage/framework/views/e22108a7e5257a9fceaea6641b509dbe
+0 1 0 10602 0 0
+/home/sdncarro/storage/framework/sessions/e065961b90f222d5005e529cbdb4da1b3c0bfbe2
+0 1 24866192 490 0 0
+/home/sdncarro/app/Http/Middleware/RedirectIfAuthenticated.php
+0 1 140639924295608 795 0 0
+/home/sdncarro/gulpfile.js
+0 1 24824800 519 0 0
+/home/sdncarro/database/factories/ModelFactory.php
+0 1 24835936 671 0 0
+/home/sdncarro/tmp/webalizer/ssl/sdncar.com.br/usage.png
+0 1 0 2328 0 0
+/home/sdncarro/storage/framework/sessions/894f2300637013b02d9118366077570a003a1cfd
+0 1 24867600 261 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479752061.M825026P1276.inovarloca.virtuaserver.com.br,S
+0 1 24859616 2744 0 0
+/home/sdncarro/resources/views/site/layout.blade.php
+0 1 24864512 16232 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.Drafts/dovecot-uidlist
+0 1 0 52 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1477018144.M361077P8705.inovarloca,S
+0 1 24849856 2701 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479308325.M300388P15616.inovarloca.virtuaserver.com.br,S
+0 1 24861536 3723 0 0
+/home/sdncarro/tmp/analog/browrep.png
+0 1 24873696 4041 0 0
+/home/sdncarro/public_html/vendor/bootstrap/css/bootstrap.css
+0 2 0 305534 0 0
 /home/sdncarro/public_html/TesteFipe/js/jquery.min.js
-0 1 0 97163 0 0
+0 2 24890960 194336 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/less/variables.less
-0 1 0 20890 0 0
+0 2 24885408 41780 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/subscriptions
+0 1 24838944 12 0 0
 /home/sdncarro/public_html/TesteFipe/fipe_con.php
-0 2 0 10682 0 0
+0 2 24883328 11068 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476129175.M34392P17050.inovarloca.virtuaserver.com.br,S
+0 1 24853472 3740 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478537804.M484410P1813.inovarloca.virtuaserver.com.br,S
+0 1 24845056 2719 0 0
+/home/sdncarro/storage/framework/cache/.gitignore
+0 1 24865696 14 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/.Sent/dovecot-uidlist
+0 1 0 52 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/css/bootstrap.min.css
-0 1 0 121200 0 0
+0 2 0 242410 0 0
+/home/sdncarro/ssl/ssl.db
+0 1 24864928 3660 0 0
+/home/sdncarro/storage/logs/laravel.log
+0 1 24872032 386781 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/js/bootstrap.min.js
-0 1 0 37045 0 0
+0 2 0 74102 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478861443.M986281P29187.inovarloca.virtuaserver.com.br,S
+0 1 24843328 2701 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_larger.scss
+0 2 0 750 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot.index.cache
+0 1 0 90920 0 0
+/home/sdncarro/tmp/webalizerftp/usage_201610.html
+0 1 24880416 49298 0 0
+/home/sdncarro/tmp/webalizer/ssl/sdncar.com.br/webalizer.current
+0 1 0 2196 0 0
+/home/sdncarro/public_html/mail/contact_me.php
+0 2 24895136 2488 0 0
+/home/sdncarro/public_html/js/freelancer.min.js
+0 2 24894128 2086 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476976399.M998715P27634.inovarloca,S
+0 1 24850032 2722 0 0
+/home/sdncarro/resources/views/emails/contactCotacao.blade.php
+0 1 0 1614 0 0
+/home/sdncarro/public_html/img/portfolio/bg3.jpg
+0 2 24892992 30782 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/stacked.less
+0 2 0 952 0 0
+/home/sdncarro/ssl/ssl.db.cache
+0 1 24864800 3519 0 0
+/home/sdncarro/storage/framework/sessions/2abde20ac2fad653d32434c080e3489fb7d953d7
+0 1 24868656 261 0 0
+/home/sdncarro/public_html/vendor/font-awesome/scss/_bordered-pulled.scss
+0 2 24902368 1184 0 0
+/home/sdncarro/tmp/analog/ssl/sdncar.com.br/type.png
+0 1 24874336 2067 0 0
+/home/sdncarro/storage/framework/sessions/9bfea637315ae717adca98719dfd9d524978ba14
+0 1 24867072 261 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1475013826.M295948P10176.inovarloca.virtuaserver.com.br,S
+0 1 24855008 2696 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1476812702.M152833P31810.inovarloca.virtuaserver.com.br,S
+0 1 24850208 3739 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/rotated-flipped.less
+0 2 24898640 1244 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479752061.M799615P1276.inovarloca.virtuaserver.com.br,S
+0 1 24859808 2744 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/font-awesome.scss
-0 1 0 430 0 0
+0 2 24888048 860 0 0
+/home/sdncarro/tmp/webalizerftp/webalizer.hist
+0 1 24880128 2880 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/new/1479316248.M862234P6000.inovarloca.virtuaserver.com.br,S
+0 1 24861344 2705 0 0
+/home/sdncarro/public_html/.htaccess
+0 2 24882624 986 0 0
+/home/sdncarro/etc/sdncar.com.br/shadow
+0 1 24837248 389 0 0
+/home/sdncarro/app/Providers/AuthServiceProvider.php
+0 1 24833440 724 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/dovecot.mailbox.log
+0 1 0 48 0 0
+/home/sdncarro/storage/framework/sessions/027f7a1860c3b2aaed1453e416d23b2fcc4572aa
+0 1 24869712 261 0 0
+/home/sdncarro/public_html/vendor/font-awesome/less/screen-reader.less
+0 2 0 236 0 0
+/home/sdncarro/resources/views/site/lista.blade.php
+0 1 24864224 2607 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478886356.M997981P3180.inovarloca.virtuaserver.com.br,S
+0 1 24842944 2717 0 0
+/home/sdncarro/public_html/vendor/font-awesome/fonts/fontawesome-webfont.woff2
+0 2 24897120 143792 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478891147.M671220P17140.inovarloca.virtuaserver.com.br,S
+0 1 24843136 2719 0 0
 /home/sdncarro/public_html/TesteFipe/bootstrap/font-awesome/scss/_bordered-pulled.scss
-0 1 0 592 0 0
+0 2 24890160 1184 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478284694.M47799P21783.inovarloca.virtuaserver.com.br,S
+0 1 24846208 3702 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478745233.M22020P27667.inovarloca.virtuaserver.com.br,S
+0 1 24844096 2719 0 0
+/home/sdncarro/etc/sdncar.com.br/passwd
+0 1 24837792 247 0 0
+/home/sdncarro/mail/sdncar.com.br/contato/cur/1478533663.M933773P1813.inovarloca.virtuaserver.com.br,S
+0 1 24845440 2701 0 0
+/home/sdncarro/mail/maildirsize
+0 1 24838816 12 0 0
+/home/sdncarro/bootstrap/autoload.php
+0 1 24833728 1113 0 0
+/home/sdncarro/public_html/less/variables.less
+0 2 24894704 834 0 0
+/home/sdncarro/storage/framework/sessions/1d97b4453af7662099e097eb0c458823fd239f7f
+0 1 24869184 383 0 0
+/home/sdncarro/tmp/webalizer/ssl/sdncar.com.br/daily_usage_201611.png
+0 1 0 3008 0 0
 /home/sdncarro/public_html/TesteFipe/fipe.php
-0 1 0 3995 0 0
+0 2 24883472 8232 0 0
+/home/sdncarro/phpspec.yml
+0 1 24825056 87 0 0
 # End Of Table - urls
 # -sites- (monthly)
-186-210-102-28.xd-dynamic.algarnetsuper.com.br
-0 51 51 1436434 0 0
--
-186-210-116-81.xd-dynamic.algarnetsuper.com.br
-0 42 42 256287 0 0
--
+186-210-193-222.xd-dynamic.algarnetsuper.com.br
+0 614 614 19020446 1 1479756982
+/home/sdncarro/public_html/robots.txt
 # End Of Table - sites (monthly)
 # -sites- (daily)
-186-210-116-81.xd-dynamic.algarnetsuper.com.br
-0 42 42 256287 0 0
--
+186-210-193-222.xd-dynamic.algarnetsuper.com.br
+0 614 614 19020446 1 1479756982
+/home/sdncarro/public_html/robots.txt
 # End Of Table - sites (daily)
 # -referrers- 
 # End Of Table - referrers
@@ -235,5 +1066,5 @@
 # End Of Table - search strings
 # -usernames- 
 sdncarro
-0 93 93 1692721 1 0
+0 614 614 19020446 2 1479756982
 # End Of Table - usernames

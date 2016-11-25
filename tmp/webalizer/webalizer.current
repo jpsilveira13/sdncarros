@@ -1,7 +1,7 @@
-# Webalizer V2.23-05 Incremental Data - 11/21/2016 09:59:43
-2016 11 21 9 59 43
-12475 8857 552 44 31 191 595749126 1942 782 0
-14 53 284 1 21
+# Webalizer V2.23-05 Incremental Data - 11/22/2016 10:06:05
+2016 11 22 10 6 5
+13732 9676 589 44 34 205 652827569 2141 831 0
+14 31 479 1 22
 1785 1244 82711867 78 281 79
 184 136 9392861 25 33 28
 643 440 29273853 37 132 59
@@ -22,8 +22,8 @@
 1894 1450 103259467 98 229 88
 555 425 28016317 53 82 35
 244 201 14032754 38 29 23
-115 76 4990913 14 26 9
-0 0 0 0 0 0
+1285 840 59225803 56 206 50
+87 55 2843553 14 19 8
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
@@ -34,51 +34,51 @@
 0 0 0 0 0 0
 0 0 0 0 0 0
 268 219 17843554 36
-109 92 6958021 12
+110 93 6984209 13
 100 88 5706912 20
 42 38 2224582 13
 91 78 4201522 19
-25 25 343038 8
-134 41 3329797 18
+26 26 380173 9
+154 58 3970846 20
 193 137 7388093 39
-492 306 17784856 91
-635 425 29705788 116
-991 726 45356065 176
-788 534 36082036 126
-945 700 45970359 144
-741 515 34448074 109
-1171 829 56926137 186
-1203 811 54254714 206
-1039 687 46958635 141
-911 628 43034111 127
-566 457 33022747 73
-520 376 24742576 82
-532 424 29000691 60
-294 237 15900460 45
-446 307 20538706 66
-239 177 14027652 29
+494 308 17860578 92
+667 449 31256934 121
+1070 754 47716211 193
+818 542 36660926 133
+952 707 46255533 146
+816 541 36840858 114
+1172 830 56963208 187
+1257 856 57509126 212
+1226 826 55803082 178
+1056 742 51380050 144
+577 464 33249680 79
+580 426 28062901 89
+1011 731 51718086 129
+338 255 16579482 56
+449 308 20575574 66
+265 200 15695449 33
 0
 0
 0
-8857
+9676
 0
 0
 0
 0
 0
-27
+39
 0
 1
 0
 0
-458
+535
 0
 0
 0
 0
 0
 0
-3128
+3466
 0
 0
 0
@@ -92,7 +92,7 @@
 0
 0
 0
-4
+15
 0
 0
 0
@@ -100,45 +100,45 @@
 0
 # -urls- 
 /img/bgduvidas.png
-0 329 4120843348480175415 6532920 0 0
+0 362 3762810459325542701 7172181 0 0
 /D3AF56E4DCDDCBB42EE1EEE21D17CD0C.txt
-0 1 3543830666972037120 53 0 0
+0 1 4121125948704751872 53 0 0
 /vendor/font-awesome/fonts/fontawesome-webfont.svg
-0 7 3976959945944858624 2741354 0 0
+0 7 3257001025754770744 2741354 0 0
 /16063.BIN_AUTOSSL_CHECK_PL__.dXBjqWv5.cpaneldcv
 0 1 0 64 0 0
 /img/user-icon.png
-0 174 0 156807 0 0
+0 183 0 165060 0 0
 /img/imgemail.png
-0 3 0 0 0 0
+0 11 0 514886 0 0
 /75F3BD1F9D192F8C2226123C2C95D919.txt
 0 2 0 106 0 0
 /16063.BIN_AUTOSSL_CHECK_PL__.1WUbri2z.cpaneldcv
 0 1 0 64 0 0
 /img/bg-fundo.png
-0 340 0 259534413 0 0
+0 373 0 283924355 0 0
 /img/portfolio/bg1.jpg
-0 363 0 8269910 0 0
+0 400 0 9088030 0 0
 /js/contact_me.js
-0 354 0 1014592 0 0
+0 389 0 1109328 0 0
 /vendor/font-awesome/css/font-awesome.min.css
-0 374 0 10055798 0 0
+0 411 0 11014877 0 0
 /css/freelancer.css
-0 381 0 7710806 0 0
+0 419 0 8439908 0 0
 /vendor/bootstrap/fonts/glyphicons-halflings-regular.eot
 0 1 0 20127 0 0
 /vendor/bootstrap/css/bootstrap.min.css
-0 379 0 42284488 0 0
+0 415 0 46284088 0 0
 /img/portfolio/bg3.jpg
-0 363 0 5075248 0 0
+0 400 0 5592151 0 0
 /listagem-veiculos
-0 378 0 12524911 122 73
+0 398 0 13188197 126 77
 /venda
-0 283 0 7367521 86 86
+0 311 0 8101208 87 91
 /favicon.ico
-0 6 0 0 0 0
+0 18 0 0 0 0
 /img/vei-icon.png
-0 173 0 178330 0 0
+0 182 0 187771 0 0
 /contato-home
 0 10 0 559 2 1
 /vendor/font-awesome/fonts/fontawesome-webfont.eot
@@ -146,52 +146,55 @@
 /16063.BIN_AUTOSSL_CHECK_PL__.DByT2Yi3.cpaneldcv
 0 1 0 64 0 0
 /img/favicon.ico
-0 421 0 1774404 0 0
+0 441 0 1847266 0 0
 /get-modelo
-0 214 0 7744843 14 11
+0 238 0 8180298 14 11
 /js/jqBootstrapValidation.js
-0 357 0 11975580 0 0
+0 391 0 13133340 0 0
 /vendor/jquery/jquery.min.js
-0 357 0 32063790 0 0
+0 392 0 35075843 0 0
 /img/videosdn.png
-0 313 0 42303492 0 0
+0 345 0 46423962 0 0
 /vendor/font-awesome/fonts/fontawesome-webfont.ttf
 0 1 0 152796 0 0
-/vendor/font-awesome/fonts/fontawesome-webfont.woff
-0 40 7146775438687564660 2836926 0 0
 /img/logoTopo.png
-0 367 0 3419708 0 0
+0 403 3761122713338720558 3755716 0 0
+/vendor/font-awesome/fonts/fontawesome-webfont.woff
+0 45 0 3017750 0 0
 /vendor/bootstrap/js/bootstrap.min.js
-0 357 3257281418265966385 12224850 0 0
+0 392 4122817864245706752 13373245 0 0
 /salvar-cotacao
-0 111 3978702676169850880 30421 12 3
+0 125 3978702867034341376 34013 12 3
 /
-0 605 4048785754442247479 22422820 525 183
+0 669 3329623790127035950 24797604 568 195
 /js/mask.min.js
-0 357 7146775438687564660 2233770 0 0
+0 391 7885630523654109807 2443609 0 0
 /salvar-agendamento
-0 22 378058937857 2245 0 3
+0 30 377461839617 3140 0 3
 /9C6DAA290FE2D90D6AB11459E535D98E.txt
 0 5 8026310029767374195 265 0 0
 /js/freelancer.js
-0 355 377594414593 2767008 0 0
+0 407 377505902337 3043207 0 0
 /vendor/font-awesome/fonts/fontawesome-webfont.woff2
-0 298 0 20058984 0 0
+0 329 0 22215864 0 0
 /js/site.js
-0 362 0 2752576 0 0
+0 396 0 3012728 0 0
 /img/portfolio/bg2.jpg
-0 364 0 9702833 0 0
+0 400 0 10657209 0 0
 /robots.txt
-0 42 0 1008 0 0
+0 43 0 1032 0 0
 /img/logoFace.png
-0 155 0 5980985 0 0
+0 167 0 6444029 0 0
 /get-ano
-0 306 0 217581 19 10
+0 335 0 237205 20 10
 # End Of Table - urls
 # -sites- (monthly)
 b3993480.virtua.com.br
 0 24 21 1556292 1 1479467539
 /contato-home
+186-210-127-170.xd-dynamic.algarnetsuper.com.br
+0 31 25 1698224 1 1479741559
+/salvar-cotacao
 189-015-131-107.xd-dynamic.algarnetsuper.com.br
 0 22 19 1551902 1 1479493629
 /
@@ -199,7 +202,7 @@ b3993480.virtua.com.br
 0 1 1 38587 0 0
 -
 173.252.123.129
-0 4 3 130600 1 1478557834
+0 7 5 164891 1 1478557834
 /
 191-054-213-139.xd-dynamic.algarnetsuper.com.br
 0 46 37 2868053 2 1478529118
@@ -214,14 +217,14 @@ b3993480.virtua.com.br
 0 31 25 1638881 1 1478522753
 /venda
 crawl-66-249-64-86.googlebot.com
-0 16 16 429160 9 1478331076
+0 19 19 616494 10 1479807430
 /
-173.252.123.133
-0 3 3 86174 0 0
--
 186-210-111-18.xd-dynamic.algarnetsuper.com.br
 0 20 16 620017 1 1479422293
 /listagem-veiculos
+173.252.123.133
+0 4 4 123309 1 1479769610
+/
 187-24-128-238.3g.claro.net.br
 0 32 26 1684160 1 1478162444
 /salvar-cotacao
@@ -234,12 +237,12 @@ crawl-66-249-64-42.googlebot.com
 186-210-205-94.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1478359252
 /
-186-210-110-113.xd-dynamic.algarnetsuper.com.br
-0 130 44 2923001 6 1478183783
-/listagem-veiculos
 189-041-083-5.xd-dynamic.algarnetsuper.com.br
 0 26 16 1453454 2 1478111073
 /
+186-210-110-113.xd-dynamic.algarnetsuper.com.br
+0 130 44 2923001 6 1478183783
+/listagem-veiculos
 179-104-223-205.xd-dynamic.algarnetsuper.com.br
 0 21 1 114652 1 1479066408
 /listagem-veiculos
@@ -249,21 +252,21 @@ crawl-66-249-64-42.googlebot.com
 66.220.146.24
 0 2 2 77174 0 0
 -
-bb423667.virtua.com.br
-0 34 25 1729690 1 1479489351
-/salvar-cotacao
 191-055-011-067.xd-dynamic.algartelecom.com.br
 0 31 25 1684973 1 1478533630
 /venda
+bb423667.virtua.com.br
+0 34 25 1729690 1 1479489351
+/salvar-cotacao
 186-210-198-38.xd-dynamic.algarnetsuper.com.br
 0 221 56 4127887 6 1478628056
+/listagem-veiculos
+186-210-204-144.xd-dynamic.algarnetsuper.com.br
+0 141 30 1863003 5 1478711999
 /listagem-veiculos
 191-054-214-92.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1479320483
 /
-186-210-204-144.xd-dynamic.algarnetsuper.com.br
-0 141 30 1863003 5 1478711999
-/listagem-veiculos
 179-104-211-158.xd-dynamic.algarnetsuper.com.br
 0 33 27 1685577 1 1478019273
 /salvar-cotacao
@@ -279,24 +282,24 @@ ip-177-79-5-142.user.vivozap.com.br
 b1c2b3c1.virtua.com.br
 0 25 19 1647990 1 1479517710
 /
-186-218-82-120.viacaboip.com.br
-0 33 27 1635066 1 1479476241
-/venda
-66.220.146.27
-0 2 2 77174 0 0
--
 179-126-215-239.xd-dynamic.algarnetsuper.com.br
 0 32 26 1660880 1 1478528555
 /salvar-cotacao
-31.13.113.94
-0 1 1 38587 0 0
+66.220.146.27
+0 2 2 77174 0 0
 -
-173.252.124.29
+186-218-82-120.viacaboip.com.br
+0 33 27 1635066 1 1479476241
+/venda
+31.13.113.94
 0 1 1 38587 0 0
 -
 179-126-042-162.xd-dynamic.algarnetsuper.com.br
 0 24 21 1625571 1 1478028709
 /get-modelo
+173.252.124.29
+0 1 1 38587 0 0
+-
 69.171.230.122
 0 1 1 38587 0 0
 -
@@ -333,12 +336,12 @@ secure.comodo.net
 b5ded403.virtua.com.br
 0 35 26 1769880 1 1479489406
 /
-179-246-127-119.user.vivozap.com.br
-0 1 1 264 1 1478013246
-/salvar-cotacao
 173.252.88.86
 0 2 2 77174 0 0
 -
+179-246-127-119.user.vivozap.com.br
+0 1 1 264 1 1478013246
+/salvar-cotacao
 189-47-62-172.dsl.telesp.net.br
 0 25 22 1599446 1 1478004509
 /get-ano
@@ -352,7 +355,7 @@ jobqueue-listener.jobqueue.netcraft.com-u101f0d7e283d45c7a207221e4e053680u-digit
 0 1 1 37167 1 1479541903
 /
 173.252.123.140
-0 6 6 231522 0 0
+0 7 7 240522 0 0
 -
 ntt-pdz-rb-gw01.nettriangulo.com.br
 0 35 27 1808820 1 1479505731
@@ -360,11 +363,11 @@ ntt-pdz-rb-gw01.nettriangulo.com.br
 b1b4d3fe.virtua.com.br
 0 41 26 1868834 1 1479479349
 /
-bbb5d66d.virtua.com.br
-0 32 26 1684874 1 1479487162
-/salvar-cotacao
 189-015-043-95.xd-dynamic.algarnetsuper.com.br
 0 34 27 1751270 1 1478550244
+/salvar-cotacao
+bbb5d66d.virtua.com.br
+0 32 26 1684874 1 1479487162
 /salvar-cotacao
 google-proxy-66-249-85-22.google.com
 0 11 9 449506 1 1478521592
@@ -393,12 +396,12 @@ b1eb908c.virtua.com.br
 189-015-119-251.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1478003792
 /
-69.171.230.110
-0 1 1 38587 0 0
--
 186-210-255-86.xd-dynamic.algarnetsuper.com.br
 0 35 26 1762003 1 1478007707
 /
+69.171.230.110
+0 1 1 38587 0 0
+-
 crawl-66-249-65-246.googlebot.com
 0 1 1 24 0 0
 -
@@ -417,15 +420,24 @@ crawl-66-249-65-90.googlebot.com
 191-054-211-218.xd-dynamic.algarnetsuper.com.br
 0 58 37 2127962 1 1478262311
 /salvar-cotacao
+ip-177-79-103-125.user.vivozap.com.br
+0 9 7 283467 0 0
+-
 191-054-209-194.xd-dynamic.algarnetsuper.com.br
 0 20 19 1537836 1 1479663150
 /
 191-054-158-209.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1478012118
 /
+66.220.156.97
+0 1 1 38587 0 0
+-
 177-191-162-210.xd-dynamic.algarnetsuper.com.br
 0 33 27 1686078 1 1479367070
 /venda
+189.5.224.201
+0 23 20 1556456 1 1479769610
+/
 spider-141-8-143-172.yandex.com
 0 2 2 48 0 0
 -
@@ -435,12 +447,18 @@ spider-141-8-143-172.yandex.com
 31.13.110.96
 0 1 1 38587 0 0
 -
+173.252.114.117
+0 1 1 37135 1 1479804485
+/
 179-104-215-183.xd-dynamic.algarnetsuper.com.br
 0 32 26 1684140 1 1478609781
 /salvar-cotacao
 147.75.208.232
 0 5 3 138893 1 1477990032
 /get-modelo
+186-210-193-222.xd-dynamic.algarnetsuper.com.br
+0 469 293 21360219 1 1479760137
+/salvar-cotacao
 189-19-100-36.dsl.telesp.net.br
 0 31 25 1680595 1 1479394722
 /salvar-cotacao
@@ -462,12 +480,12 @@ b39b7fab.virtua.com.br
 189-039-049-033.static.spo.ctbc.com.br
 0 32 26 1684157 1 1478883654
 /salvar-cotacao
-186-210-197-161.xd-dynamic.algarnetsuper.com.br
-0 32 25 1716808 1 1479127613
-/salvar-cotacao
 189-041-141-96.xd-dynamic.algarnetsuper.com.br
 0 41 29 1845001 1 1478738048
 /
+186-210-197-161.xd-dynamic.algarnetsuper.com.br
+0 32 25 1716808 1 1479127613
+/salvar-cotacao
 ip-64-202-160-248.secureserver.net
 0 2 2 74270 2 1479195725
 /
@@ -477,24 +495,30 @@ ip-64-202-160-248.secureserver.net
 173.252.120.120
 0 1 1 9000 0 0
 -
-186-210-119-123.xd-dynamic.algarnetsuper.com.br
-0 31 25 1638656 1 1479308698
-/salvar-cotacao
 173.252.120.115
 0 1 1 37071 1 1478267609
 /
+186-210-119-123.xd-dynamic.algarnetsuper.com.br
+0 31 25 1638656 1 1479308698
+/salvar-cotacao
 189-041-137-129.xd-dynamic.algarnetsuper.com.br
 0 32 26 1685450 1 1478168913
 /salvar-cotacao
 173.252.90.247
 0 1 1 38587 0 0
 -
+bbb5c494.virtua.com.br
+0 2 1 28519 1 1479751613
+/
 186.214.174.195.static.host.gvt.net.br
 0 34 25 1725271 1 1479467388
 /venda
 webdefence.cluster-p.websense.net
 0 23 20 1560810 1 1478535439
 /
+69.63.188.208
+0 1 1 38587 0 0
+-
 b39b68ef.virtua.com.br
 0 43 31 1896418 1 1478025783
 /salvar-agendamento
@@ -513,12 +537,12 @@ b5ded129.virtua.com.br
 186-210-127-143.xd-dynamic.algarnetsuper.com.br
 0 31 25 1683526 1 1478884066
 /venda
+66.220.146.22
+0 2 2 77174 0 0
+-
 static-177-52-240-23.goldinternet.net.br
 0 31 25 1684845 1 1479676229
 /venda
-66.220.146.22
-0 1 1 38587 0 0
--
 173.252.123.144
 0 1 1 37071 1 1478876990
 /
@@ -526,7 +550,7 @@ static-177-52-240-23.goldinternet.net.br
 0 34 28 1684986 1 1478002800
 /salvar-cotacao
 google-proxy-66-249-85-6.google.com
-0 273 189 13093763 16 1479493795
+0 292 204 14410630 16 1479493795
 /
 191-055-015-130.xd-dynamic.algartelecom.com.br
 0 34 28 1685076 1 1478200156
@@ -571,26 +595,29 @@ ip-177-79-6-167.user.vivozap.com.br
 0 16 12 1172982 1 1478859149
 /venda
 google-proxy-66-249-85-4.google.com
-0 240 167 13933464 17 1479398974
-/venda
+0 264 182 15462760 19 1479749244
+/
 189-041-209-136.xd-dynamic.algarnetsuper.com.br
 0 2 2 372 1 1479161754
 /salvar-agendamento
 200-139-128-143.viacaboip.com.br
 0 35 26 1686305 1 1478876982
 /salvar-cotacao
-crawl-66-249-69-43.googlebot.com
-0 1 1 37071 1 1478851786
-/
 147.75.208.226
 0 3 2 831836 0 0
 -
+crawl-66-249-69-43.googlebot.com
+0 1 1 37071 1 1478851786
+/
 147.75.208.225
 0 2 2 11268 0 0
 -
 bbb5c722.virtua.com.br
 0 33 26 1700309 1 1479496734
 /salvar-cotacao
+189-041-077-209.xd-dynamic.algarnetsuper.com.br
+0 22 19 1551902 1 1479746118
+/
 bb173dd7.virtua.com.br
 0 23 20 1556188 1 1479511234
 /
@@ -618,6 +645,9 @@ crawl-66-249-73-183.googlebot.com
 189-041-069-174.xd-dynamic.algarnetsuper.com.br
 0 32 26 1684776 1 1479410542
 /salvar-cotacao
+186-210-208-90.xd-dynamic.algarnetsuper.com.br
+0 2 1 28519 1 1479752613
+/
 186-210-124-23.xd-dynamic.algarnetsuper.com.br
 0 43 31 1807399 1 1478878144
 /
@@ -648,21 +678,21 @@ google-proxy-66-249-88-131.google.com
 google-proxy-66-249-83-152.google.com
 0 19 16 1583565 0 0
 -
-173.252.124.84
-0 1 1 38587 0 0
--
 189-041-141-1.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1478203694
 /
+173.252.124.84
+0 1 1 38587 0 0
+-
 69.63.188.115
 0 1 1 38587 0 0
 -
-177-191-093-4.xd-dynamic.algarnetsuper.com.br
-0 23 20 1556188 1 1478776247
-/
 189-041-038-167.xd-dynamic.algarnetsuper.com.br
 0 4 1 81939 1 1478201820
 /listagem-veiculos
+177-191-093-4.xd-dynamic.algarnetsuper.com.br
+0 23 20 1556188 1 1478776247
+/
 173.252.90.97
 0 1 1 38587 0 0
 -
@@ -672,15 +702,18 @@ google-proxy-66-249-83-152.google.com
 179-104-035-126.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1479488040
 /
-189-041-066-66.xd-dynamic.algarnetsuper.com.br
-0 32 26 1661219 1 1478020647
-/salvar-cotacao
 179-104-223-180.xd-dynamic.algarnetsuper.com.br
 0 36 2 164156 1 1479449026
 /listagem-veiculos
+189-041-066-66.xd-dynamic.algarnetsuper.com.br
+0 32 26 1661219 1 1478020647
+/salvar-cotacao
 69.171.230.107
 0 2 2 77174 0 0
 -
+186-210-222-125.xd-dynamic.algarnetsuper.com.br
+0 23 20 1556188 1 1479749198
+/
 191-054-006-9.xd-dynamic.algarnetsuper.com.br
 0 46 34 2025588 1 1478005721
 /
@@ -702,6 +735,9 @@ google-proxy-66-249-83-84.google.com
 189-041-036-33.xd-dynamic.algarnetsuper.com.br
 0 31 25 1684487 1 1478520189
 /venda
+179-241-198-119.3g.claro.net.br
+0 23 20 1556188 1 1479743605
+/
 177-191-063-67.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1478084856
 /
@@ -711,11 +747,14 @@ google-proxy-66-249-83-84.google.com
 69.63.188.108
 0 1 1 38587 0 0
 -
+b39b79f8.virtua.com.br
+0 23 20 1556188 1 1478176027
+/
 google-proxy-66-249-88-129.google.com
 0 66 53 3984381 5 1479608604
 /
-b39b79f8.virtua.com.br
-0 23 20 1556188 1 1478176027
+bbb55449.virtua.com.br
+0 23 20 1556188 1 1479736074
 /
 186-210-194-176.xd-dynamic.algarnetsuper.com.br
 0 43 31 1860167 1 1478878833
@@ -723,12 +762,15 @@ b39b79f8.virtua.com.br
 191-054-212-137.xd-dynamic.algarnetsuper.com.br
 0 34 28 1684823 1 1479214071
 /salvar-agendamento
-bd20ae30.virtua.com.br
-0 37 28 1788295 1 1479487078
-/
 google-proxy-66-249-83-82.google.com
 0 38 33 2670787 8 1479416100
 /venda
+bd20ae30.virtua.com.br
+0 37 28 1788295 1 1479487078
+/
+189-041-101-246.xd-dynamic.algarnetsuper.com.br
+0 38 29 1790262 3 1479750207
+/
 173.252.120.109
 0 1 1 9000 0 0
 -
@@ -741,10 +783,10 @@ crawl-66-249-65-86.googlebot.com
 177-191-092-204.xd-dynamic.algarnetsuper.com.br
 0 2 2 52504 1 1478616370
 /venda
-69.171.230.120
+69.171.230.117
 0 1 1 38587 0 0
 -
-69.171.230.117
+69.171.230.120
 0 1 1 38587 0 0
 -
 191-055-008-118.xd-dynamic.algartelecom.com.br
@@ -783,21 +825,21 @@ b39b6735.virtua.com.br
 179-126-081-131.xd-dynamic.algarnetsuper.com.br
 0 36 27 1769795 2 1479480204
 /salvar-cotacao
-186-210-108-166.xd-dynamic.algarnetsuper.com.br
-0 31 22 1728204 3 1478883892
-/
 173.252.120.97
 0 1 0 16291 0 0
 -
+186-210-108-166.xd-dynamic.algarnetsuper.com.br
+0 31 22 1728204 3 1478883892
+/
 189-041-090-199.xd-dynamic.algarnetsuper.com.br
 0 31 25 1652395 1 1478875778
+/venda
+google-proxy-66-249-85-21.google.com
+0 13 10 201020 1 1478521624
 /venda
 189-104-207-82.user3g.veloxzone.com.br
 0 2 0 32582 0 0
 -
-google-proxy-66-249-85-21.google.com
-0 13 10 201020 1 1478521624
-/venda
 google-proxy-66-249-85-17.google.com
 0 1 1 121200 0 0
 -
@@ -810,12 +852,12 @@ google-proxy-66-249-85-17.google.com
 189-041-211-80.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1479459107
 /
-b39b7aea.virtua.com.br
-0 22 19 1570418 1 1478976941
-/
 179-104-235-146.xd-dynamic.algarnetsuper.com.br
 0 31 25 1683508 1 1478368049
 /venda
+b39b7aea.virtua.com.br
+0 22 19 1570418 1 1478976941
+/
 inovarloca.virtuaserver.com.br
 0 9 9 510 0 0
 -
@@ -837,18 +879,24 @@ inovarloca.virtuaserver.com.br
 189-041-101-95.xd-dynamic.algarnetsuper.com.br
 0 29 2 229154 1 1478368377
 /listagem-veiculos
+mail.rodoribriopreto.com.br
+0 36 27 1733479 1 1479747198
+/get-ano
 191-055-010-196.xd-dynamic.algartelecom.com.br
 0 23 20 1556188 1 1477997472
 /
 crawl-66-249-75-170.googlebot.com
 0 1 1 37071 1 1478917134
 /
-google-proxy-66-102-6-121.google.com
-0 16 13 1470949 0 0
--
+ip-177-27-99-153.user.vivozap.com.br
+0 2 1 28519 1 1479751305
+/
 186-210-248-215.xd-dynamic.algarnetsuper.com.br
 0 1 1 262 1 1478521651
 /salvar-cotacao
+google-proxy-66-102-6-121.google.com
+0 16 13 1470949 0 0
+-
 b5ded971.virtua.com.br
 0 2 2 353 1 1478002671
 /salvar-agendamento
@@ -860,6 +908,9 @@ crawl-66-249-69-39.googlebot.com
 /
 177-178-115-84.user3g.veloxzone.com.br
 0 18 4 328105 3 1478185721
+/listagem-veiculos
+179-67-132-54.user3g.veloxzone.com.br
+0 19 16 603914 1 1479797453
 /listagem-veiculos
 179-104-206-51.xd-dynamic.algarnetsuper.com.br
 0 45 33 1885353 2 1478012896
@@ -895,7 +946,7 @@ crawl-66-249-65-83.googlebot.com
 0 31 25 1635069 1 1479248955
 /venda
 crawl-66-249-64-90.googlebot.com
-0 10 10 300904 8 1479665763
+0 13 13 375070 10 1479772751
 /
 69.63.188.106
 0 2 2 77174 0 0
@@ -925,13 +976,16 @@ bb42371a.virtua.com.br
 0 1 1 9000 0 0
 -
 173.252.123.141
-0 4 4 154348 0 0
+0 6 4 186930 0 0
 -
 201-0-61-72.dsl.telesp.net.br
 0 67 50 4319071 1 1479162867
 /salvar-agendamento
 186-210-195-178.xd-dynamic.algarnetsuper.com.br
 0 1 0 0 0 0
+-
+173.252.124.67
+0 1 1 38587 0 0
 -
 66.220.152.171
 0 1 1 38587 0 0
@@ -973,7 +1027,7 @@ b5dedbd0.virtua.com.br
 0 23 20 1556188 1 1478339141
 /
 rate-limited-proxy-66-249-89-2.google.com
-0 30 28 2303943 4 1479674156
+0 32 30 2378213 5 1479754312
 /
 177-95-138-192.dsl.telesp.net.br
 0 14 14 1275130 1 1479467488
@@ -990,6 +1044,9 @@ ip-177-79-14-100.user.vivozap.com.br
 sjp-core01-ls.amplitudenet.com.br
 0 54 33 2081420 1 1479496483
 /salvar-cotacao
+177-66-224-230.n4telecom.com.br
+0 46 18 678755 1 1479764361
+/
 66.220.146.28
 0 1 1 38587 0 0
 -
@@ -1002,12 +1059,12 @@ bl12-141-84.dsl.telepac.pt
 rate-limited-proxy-66-249-89-4.google.com
 0 19 15 582550 3 1479648313
 /
-173.252.115.194
-0 1 1 37135 1 1479464119
-/
 173.252.123.128
 0 6 4 186930 0 0
 -
+173.252.115.194
+0 1 1 37135 1 1479464119
+/
 173.252.88.91
 0 1 1 38587 0 0
 -
@@ -1033,8 +1090,8 @@ google-proxy-66-249-85-20.google.com
 0 5 3 50036 1 1477990080
 /venda
 crawl-66-249-64-9.googlebot.com
-0 30 30 969430 24 1479693430
-/venda
+0 32 32 1043700 26 1479797736
+/
 google-proxy-66-249-83-80.google.com
 0 5 5 136657 4 1479417381
 /listagem-veiculos
@@ -1098,12 +1155,12 @@ bbb5d1cc.virtua.com.br
 google-proxy-66-249-83-13.google.com
 0 5 5 136619 4 1479668838
 /listagem-veiculos
-186-210-253-1.xd-dynamic.algarnetsuper.com.br
-0 22 1 130945 1 1478903961
-/listagem-veiculos
 bd20b73f.virtua.com.br
 0 22 19 1551902 1 1479243313
 /
+186-210-253-1.xd-dynamic.algarnetsuper.com.br
+0 22 1 130945 1 1478903961
+/listagem-veiculos
 186-210-112-226.xd-dynamic.algarnetsuper.com.br
 0 26 2 233250 1 1479424512
 /listagem-veiculos
@@ -1122,15 +1179,15 @@ bd20b73f.virtua.com.br
 189-041-078-57.xd-dynamic.algarnetsuper.com.br
 0 30 24 1702643 1 1478812804
 /venda
-189-015-253-130.xd-dynamic.algarnetsuper.com.br
-0 23 20 1556188 1 1478082717
-/
 173.252.123.147
 0 3 3 115761 0 0
 -
+189-015-253-130.xd-dynamic.algarnetsuper.com.br
+0 23 20 1556188 1 1478082717
+/
 173.252.123.145
-0 5 5 192935 0 0
--
+0 6 6 230006 1 1479809164
+/
 rate-limited-proxy-66-249-91-57.google.com
 0 1 0 16291 0 0
 -
@@ -1158,24 +1215,33 @@ baded9f2.virtua.com.br
 b39b79fb.virtua.com.br
 0 33 27 1651669 1 1478559689
 /salvar-cotacao
-201-58-191-77.user3g.veloxzone.com.br
-0 17 6 378378 2 1478687475
-/listagem-veiculos
+31.13.113.188
+0 1 1 38587 0 0
+-
+189-041-098-111.xd-dynamic.algarnetsuper.com.br
+0 2 1 28519 1 1479750379
+/
 66.220.156.120
 0 2 2 77174 0 0
 -
+201-58-191-77.user3g.veloxzone.com.br
+0 17 6 378378 2 1478687475
+/listagem-veiculos
+66.220.158.109
+0 1 1 37135 1 1479769610
+/
 200-139-143-172.viacaboip.com.br
 0 27 21 1642196 1 1478443365
 /
 rate-limited-proxy-209-85-238-23.google.com
 0 72 60 2777317 7 1479580776
 /
-186-210-214-33.xd-dynamic.algarnetsuper.com.br
-0 74 39 2098772 1 1479720635
-/listagem-veiculos
 ip-176-195-103-178.bb.netbynet.ru
 0 16 16 664651 1 1479049753
 /venda
+186-210-214-33.xd-dynamic.algarnetsuper.com.br
+0 226 84 5711578 5 1479748729
+/listagem-veiculos
 177-191-089-39.xd-dynamic.algarnetsuper.com.br
 0 22 19 1551902 1 1478463493
 /
@@ -1185,6 +1251,9 @@ ip-176-195-103-178.bb.netbynet.ru
 138.209.186.75-rev.tcheturbo.net.br
 0 23 20 1556188 1 1479478035
 /
+177-58-246-97.3g.claro.net.br
+0 29 26 1603975 1 1479744862
+/salvar-agendamento
 google-proxy-66-249-83-79.google.com
 0 2 2 37348 1 1478528640
 /listagem-veiculos
@@ -1219,13 +1288,13 @@ b39b6b14.virtua.com.br
 0 23 20 1556188 1 1478527626
 /
 google-proxy-66-249-85-2.google.com
-0 255 182 13047454 14 1479162569
+0 274 196 13584975 15 1479744076
+/get-ano
+google-proxy-66-249-80-25.google.com
+0 9 7 166043 1 1479416406
 /
 186-210-151-96.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1479305932
-/
-google-proxy-66-249-80-25.google.com
-0 9 7 166043 1 1479416406
 /
 www.whois.sc
 0 2 2 37159 1 1478569892
@@ -1233,6 +1302,9 @@ www.whois.sc
 179-133-94-63.user.vivozap.com.br
 0 3 0 48873 0 0
 -
+bfbd49d8.virtua.com.br
+0 22 19 1551902 1 1479756860
+/
 186-210-205-89.xd-dynamic.algarnetsuper.com.br
 0 31 25 1684098 1 1478884339
 /venda
@@ -1246,32 +1318,38 @@ www.whois.sc
 0 1 1 38587 0 0
 -
 173.252.88.88
-0 2 2 77174 0 0
+0 3 3 115761 0 0
 -
+201-93-18-124.dial-up.telesp.net.br
+0 25 22 1566716 1 1479761893
+/get-ano
 66.220.158.120
 0 1 1 38587 0 0
 -
+bb172bc5.virtua.com.br
+0 23 20 1556188 1 1479748174
+/
 189-041-109-182.xd-dynamic.algarnetsuper.com.br
 0 67 23 1261422 6 1478280190
 /listagem-veiculos
 173.252.74.115
 0 1 1 38587 0 0
 -
-179.180.182.176.dynamic.adsl.gvt.net.br
-0 35 26 1726216 1 1479484680
-/
 187-56-4-57.dsl.telesp.net.br
 0 27 21 1642196 1 1478022735
+/
+179.180.182.176.dynamic.adsl.gvt.net.br
+0 35 26 1726216 1 1479484680
 /
 google-proxy-66-249-83-9.google.com
 0 4 4 17144 0 0
 -
-179-67-61-72.user3g.veloxzone.com.br
-0 59 23 1100118 5 1479285569
-/listagem-veiculos
 bbb5dc0b.virtua.com.br
 0 23 20 1556188 1 1479154832
 /
+179-67-61-72.user3g.veloxzone.com.br
+0 59 23 1100118 5 1479285569
+/listagem-veiculos
 179-104-201-133.xd-dynamic.algarnetsuper.com.br
 0 25 22 1631910 1 1478519564
 /
@@ -1284,11 +1362,11 @@ google-proxy-66-249-88-2.google.com
 189-041-101-228.xd-dynamic.algarnetsuper.com.br
 0 31 25 1699587 1 1478519137
 /salvar-cotacao
-159.203.171.221
-0 1 1 37151 1 1479483763
-/
 150-70-173-8.trendmicro.com
 0 1 1 37135 1 1479462528
+/
+159.203.171.221
+0 1 1 37151 1 1479483763
 /
 186-210-118-135.xd-dynamic.algarnetsuper.com.br
 0 32 25 1666989 1 1478752428
@@ -1300,7 +1378,7 @@ google-proxy-66-249-88-2.google.com
 0 2 2 29543 0 0
 -
 69.171.230.106
-0 1 1 38587 0 0
+0 2 2 77174 0 0
 -
 bbb551a2.virtua.com.br
 0 22 19 1551902 1 1478304399
@@ -1320,6 +1398,9 @@ jobqueue-listener.jobqueue.netcraft.com-u5ad4e72d48a3474f94e8e7f3c3bdd8f4u-digit
 147.75.208.233
 0 3 2 41576 0 0
 -
+66.220.156.105
+0 1 1 38587 0 0
+-
 b153c20f.virtua.com.br
 0 23 20 1556188 1 1479466794
 /
@@ -1336,7 +1417,7 @@ b1b4d2c0.virtua.com.br
 0 7 1 123969 1 1479646166
 /venda
 173.252.123.134
-0 1 1 38587 0 0
+0 2 2 47587 0 0
 -
 b39b71d7.virtua.com.br
 0 22 19 1551838 1 1479339435
@@ -1365,18 +1446,21 @@ crawl-66-249-64-44.googlebot.com
 177-94-16-213.dsl.telesp.net.br
 0 57 45 3318835 2 1478557395
 /salvar-cotacao
+104.131.94.225
+0 1 1 0 0 0
+-
 186-233-160-148.supercabotv.com.br
 0 35 26 1771094 1 1479577668
 /
 98.76.186.200.sta.impsat.net.br
 0 33 27 1661414 1 1479554574
 /venda
-173.252.74.96
-0 1 1 38587 0 0
--
 150-70-188-165.trendmicro.com
 0 1 1 37135 1 1479572908
 /
+173.252.74.96
+0 1 1 38587 0 0
+-
 186.235.80.33.brava.net.br
 0 1 1 37135 1 1479575052
 /
@@ -1389,6 +1473,9 @@ google-proxy-66-249-83-201.google.com
 rate-limited-proxy-66-249-90-151.google.com
 0 19 16 1335888 1 1479238134
 /
+baded9d2.virtua.com.br
+0 13 7 214822 1 1479744790
+/salvar-cotacao
 200-139-140-148.viacaboip.com.br
 0 23 20 1556188 1 1478526749
 /
@@ -1398,11 +1485,11 @@ rate-limited-proxy-66-249-90-151.google.com
 66.220.156.113
 0 1 1 38587 0 0
 -
-bd2315be.virtua.com.br
-0 23 20 1556188 1 1479638222
-/
 189-041-099-180.xd-dynamic.algarnetsuper.com.br
 0 23 20 1556188 1 1478897041
+/
+bd2315be.virtua.com.br
+0 23 20 1556188 1 1479638222
 /
 201-048-090-061.static.ctbc.com.br
 0 1 0 16291 0 0
@@ -1428,6 +1515,9 @@ google-proxy-66-249-83-205.google.com
 179-104-232-193.xd-dynamic.algarnetsuper.com.br
 0 52 43 2245332 2 1479578660
 /venda
+69.63.188.107
+0 1 1 38587 0 0
+-
 150-70-188-179.trendmicro.com
 0 1 1 37135 1 1478525994
 /
@@ -1470,11 +1560,11 @@ google-proxy-66-102-6-119.google.com
 173.252.123.143
 0 5 4 141052 0 0
 -
-187.28.157.19
-0 32 26 1685513 1 1478547056
-/venda
 crawl-66-249-69-246.googlebot.com
 0 3 3 63347 2 1478882714
+/venda
+187.28.157.19
+0 32 26 1685513 1 1478547056
 /venda
 189-041-035-212.xd-dynamic.algarnetsuper.com.br
 0 35 25 1745664 1 1479422110
@@ -1483,7 +1573,7 @@ crawl-66-249-69-246.googlebot.com
 0 23 20 1556188 1 1479476339
 /
 crawl-66-249-64-6.googlebot.com
-0 29 27 1688103 19 1479717559
+0 32 30 1788561 22 1479792472
 /
 179.127.155.17
 0 32 26 1685367 1 1479399632
@@ -1500,6 +1590,9 @@ rate-limited-proxy-66-249-89-6.google.com
 179-104-220-66.xd-dynamic.algarnetsuper.com.br
 0 118 45 3739740 6 1479489744
 /listagem-veiculos
+173.252.90.104
+0 1 1 38587 0 0
+-
 179-67-72-197.user3g.veloxzone.com.br
 0 9 3 197487 2 1478596981
 /listagem-veiculos
@@ -1515,6 +1608,9 @@ rate-limited-proxy-66-249-89-6.google.com
 179-104-210-105.xd-dynamic.algarnetsuper.com.br
 0 23 2 164288 1 1478759073
 /listagem-veiculos
+186.227.82.194
+0 18 18 1365948 1 1479760302
+/
 173.252.90.126
 0 1 1 38587 0 0
 -
@@ -1522,7 +1618,7 @@ rate-limited-proxy-66-249-89-6.google.com
 0 33 27 1644119 1 1477996587
 /salvar-agendamento
 crawl-66-249-64-3.googlebot.com
-0 36 36 1107738 28 1479707442
+0 37 37 1144873 29 1479732791
 /
 186-210-108-7.xd-dynamic.algarnetsuper.com.br
 0 44 29 1875247 1 1478519933
@@ -1542,12 +1638,12 @@ crawl-66-249-75-162.googlebot.com
 crawl-66-249-75-166.googlebot.com
 0 1 1 37071 1 1478910733
 /
-b39b6ab6.virtua.com.br
-0 7 1 130891 1 1478203951
-/listagem-veiculos
 173.252.124.28
 0 1 1 38587 0 0
 -
+b39b6ab6.virtua.com.br
+0 7 1 130891 1 1478203951
+/listagem-veiculos
 179.124.130.210-static.ipcarrier.com.br
 0 23 20 1556188 1 1479484040
 /
@@ -1562,6 +1658,9 @@ google-proxy-66-249-88-31.google.com
 /venda
 google-proxy-66-249-80-23.google.com
 0 5 5 1344238 0 0
+-
+66.220.152.175
+0 1 1 38587 0 0
 -
 189-015-046-72.xd-dynamic.algarnetsuper.com.br
 0 35 27 1677988 1 1478883947
@@ -1581,12 +1680,12 @@ google-proxy-66-249-80-23.google.com
 69.171.230.105
 0 1 1 38587 0 0
 -
-173.252.120.107
-0 1 1 38587 0 0
--
 b39b71ca.virtua.com.br
 0 56 47 3241202 2 1479222336
 /
+173.252.120.107
+0 1 1 38587 0 0
+-
 179-104-221-204.xd-dynamic.algarnetsuper.com.br
 0 13 7 316232 2 1478100701
 /listagem-veiculos
@@ -1635,6 +1734,9 @@ rate-limited-proxy-209-85-238-27.google.com
 147.75.208.230
 0 2 2 908 1 1477990057
 /get-ano
+ip-177-79-24-205.user.vivozap.com.br
+0 16 15 1300403 1 1479748841
+/get-ano
 bbb546d4.virtua.com.br
 0 1 1 293 1 1479309361
 /salvar-cotacao
@@ -1659,12 +1761,12 @@ bd79b71c.virtua.com.br
 177-94-134-104.dsl.telesp.net.br
 0 30 21 1719307 1 1479488478
 /get-ano
-179-104-200-73.xd-dynamic.algarnetsuper.com.br
-0 122 44 2187652 5 1478796469
-/listagem-veiculos
 177.43.6.181.static.host.gvt.net.br
 0 24 21 1556188 1 1479463575
 /
+179-104-200-73.xd-dynamic.algarnetsuper.com.br
+0 122 44 2187652 5 1478796469
+/listagem-veiculos
 189-68-139-162.dsl.telesp.net.br
 0 31 25 1683291 1 1479490860
 /venda
@@ -1684,16 +1786,16 @@ ec2-54-224-101-98.compute-1.amazonaws.com
 0 1 1 317 1 1479399073
 /salvar-cotacao
 crawl-66-249-64-83.googlebot.com
-0 15 15 698421 12 1479699227
+0 17 17 757586 13 1479738290
 /
 189-041-066-105.xd-dynamic.algarnetsuper.com.br
 0 21 18 1414553 1 1478882736
 /
-rate-limited-proxy-66-249-90-155.google.com
-0 3 3 111405 2 1479238324
-/
 173.252.121.113
 0 1 1 37135 1 1478884763
+/
+rate-limited-proxy-66-249-90-155.google.com
+0 3 3 111405 2 1479238324
 /
 173.252.120.98
 0 3 2 34291 0 0
@@ -1729,26 +1831,29 @@ crawl-66-249-73-179.googlebot.com
 0 23 2 163990 1 1478417829
 /listagem-veiculos
 173.252.123.137
-0 3 2 63878 0 0
+0 5 4 81878 0 0
 -
 69.171.230.123
 0 1 1 38587 0 0
 -
-173.252.90.105
-0 1 1 38587 0 0
+rate-limited-proxy-66-249-90-153.google.com
+0 2 2 28863 0 0
 -
-bbb55fb2.virtua.com.br
-0 23 20 1556188 1 1478023513
-/
 google-proxy-66-249-83-151.google.com
 0 13 11 547813 1 1479229089
 /
-rate-limited-proxy-66-249-90-153.google.com
-0 2 2 28863 0 0
+bbb55fb2.virtua.com.br
+0 23 20 1556188 1 1478023513
+/
+173.252.90.105
+0 1 1 38587 0 0
 -
 177-176-5-99.user3g.veloxzone.com.br
 0 9 1 130937 1 1479069917
 /listagem-veiculos
+186.237.131.46
+0 32 26 1685114 1 1479748139
+/salvar-cotacao
 173.252.123.132
 0 2 2 47587 0 0
 -
@@ -1776,18 +1881,21 @@ bbb5482d.virtua.com.br
 186-210-213-24.xd-dynamic.algarnetsuper.com.br
 0 35 25 1746525 1 1477990347
 /venda
-173.252.90.248
-0 2 2 77174 0 0
--
 179-66-117-112.user3g.veloxzone.com.br
 0 20 4 377080 3 1478897245
 /listagem-veiculos
+173.252.90.248
+0 2 2 77174 0 0
+-
+189-041-091-204.xd-dynamic.algarnetsuper.com.br
+0 2 1 28519 1 1479751897
+/
 66.220.146.26
 0 2 2 77174 0 0
 -
 b39b78e8.virtua.com.br
-0 52 40 2067881 2 1478875575
-/
+0 103 71 3915738 3 1479809043
+/venda
 179-111-212-169.dsl.telesp.net.br
 0 22 19 1551902 1 1478876506
 /
@@ -1803,6 +1911,9 @@ b39b686c.virtua.com.br
 173.252.123.139
 0 4 4 95174 0 0
 -
+31.13.113.91
+0 1 1 38587 0 0
+-
 crawl-66-249-69-242.googlebot.com
 0 1 1 37135 1 1478827631
 /
@@ -1812,21 +1923,21 @@ crawl-66-249-69-238.googlebot.com
 191-30-44-83.user.vivozap.com.br
 0 31 26 1634336 1 1479487653
 /salvar-cotacao
-bfbb3bbe.virtua.com.br
-0 67 52 3348988 3 1479491132
-/salvar-cotacao
 crawl-66-249-73-154.googlebot.com
 0 1 0 16291 0 0
 -
+bfbb3bbe.virtua.com.br
+0 67 52 3348988 3 1479491132
+/salvar-cotacao
 189-041-098-98.xd-dynamic.algarnetsuper.com.br
 0 32 26 1649950 1 1479076168
 /salvar-cotacao
-179-111-105-4.dsl.telesp.net.br
-0 23 20 1556188 1 1479226965
-/
 235.91.40.189.isp.timbrasil.com.br
 0 34 25 1733822 1 1479578781
 /venda
+179-111-105-4.dsl.telesp.net.br
+0 23 20 1556188 1 1479226965
+/
 crawl-66-249-73-150.googlebot.com
 0 2 1 16315 0 0
 -
@@ -1847,110 +1958,116 @@ bbb5485c.virtua.com.br
 /
 # End Of Table - sites (monthly)
 # -sites- (daily)
-173.252.123.133
-0 1 1 38587 0 0
+173.252.123.129
+0 3 2 34291 0 0
 -
-66.220.146.24
-0 1 1 38587 0 0
--
-189.4.75.163
-0 23 20 1556188 1 1479688858
+crawl-66-249-64-86.googlebot.com
+0 1 1 37071 1 1479807430
 /
-69.171.230.119
+173.252.123.140
+0 1 1 9000 0 0
+-
+66.220.156.97
 0 1 1 38587 0 0
 -
-173.252.90.238
-0 1 1 38587 0 0
--
-186-210-195-178.xd-dynamic.algarnetsuper.com.br
-0 1 0 0 0 0
+173.252.114.117
+0 1 1 37135 1 1479804485
+/
+179-67-132-54.user3g.veloxzone.com.br
+0 19 16 603914 1 1479797453
+/listagem-veiculos
+173.252.123.141
+0 2 0 32582 0 0
 -
 crawl-66-249-64-9.googlebot.com
-0 1 1 26188 1 1479693430
-/venda
-186-210-214-33.xd-dynamic.algarnetsuper.com.br
-0 74 39 2098772 1 1479720635
-/listagem-veiculos
-google-proxy-66-249-83-203.google.com
-0 1 1 4286 0 0
+0 1 1 37135 1 1479797736
+/
+173.252.123.145
+0 1 1 37071 1 1479809164
+/
+173.252.123.134
+0 1 1 9000 0 0
 -
-google-proxy-66-249-83-201.google.com
-0 1 1 33197 1 1479716348
-/listagem-veiculos
-google-proxy-66-249-83-205.google.com
-0 2 2 41421 1 1479716348
-/
 crawl-66-249-64-6.googlebot.com
-0 6 6 1002307 2 1479717559
+0 2 2 63323 2 1479792472
 /
-crawl-66-249-64-3.googlebot.com
-0 1 1 37135 1 1479707442
-/
-crawl-66-249-64-83.googlebot.com
-0 1 1 37071 1 1479699227
-/
+66.220.152.175
+0 1 1 38587 0 0
+-
+173.252.123.137
+0 2 2 18000 0 0
+-
+b39b78e8.virtua.com.br
+0 51 31 1847857 1 1479809043
+/venda
 # End Of Table - sites (daily)
 # -referrers- 
 http://www.google.com.br/
-0 1
+0 2
 http://www.sempredanegocio.com.br/anuncio
 0 1
 http://www.sdncar.com.br/listagemveivulos
 0 1
 http://sdncar.com.br/venda
-0 165
+0 277
 https://www.facebook.com
 0 2
 http://www.sdncar.com.br/ofertas
 0 1
 http://www.sempredanegocio.com.br/blog/empresa-leilao-vender-carro-em-24horas
 0 1
+http://www.sdncar.com.br/listagem
+0 1
 https://www.google.com.br/
-0 21
+0 25
 http://l.facebook.com/
 0 1
 android-app://com.google.android.googlequicksearchbox
-0 9
+0 10
 http://l.facebook.com/lsr.php
 0 1
 http://www.google.com.br/url
 0 6
 https://www.facebook.com/
-0 32
+0 34
 http://www.sdncar.com.br/
-0 6710
+0 7147
 - (Direct Request)
-0 1290
+0 1410
 http://www.example.com/wkh/iframe.html
 0 5
 http://www.sdncar.com.br/css/freelancer.css
-0 485
+0 508
 http://m.facebook.com
-0 6
+0 7
 http://www.sdncar.com.br/vendor/font-awesome/css/font-awesome.min.css
-0 237
+0 253
 http://m.facebook.com/
-0 20
-http://www.sdncar.com.br/venda
-0 877
-http://sdncar.com.br/vendor/font-awesome/css/font-awesome.min.css
 0 23
+http://www.sdncar.com.br/venda
+0 913
+http://sdncar.com.br/vendor/font-awesome/css/font-awesome.min.css
+0 36
+http://sdncar.com.br/js/freelancer.js
+0 3
 http://googleweblight.com/
 0 1
 http://whois.domaintools.com/sdncar.com.br
 0 1
 http://www.sdncar.com.br/listagem-veiculos
-0 1565
-http://sdncar.com.br/listagem-veiculos
-0 261
+0 1669
 http://sdncar.com.br/
-0 703
+0 1050
+http://sdncar.com.br/listagem-veiculos
+0 278
+http://192.168.0.1/cgi-bin/liberar.cgi
+0 2
 android-app://com.google.android.googlequicksearchbox/https/www.google.com
 0 12
 https://m.facebook.com/
 0 1
 http://sdncar.com.br/css/freelancer.css
-0 34
+0 48
 http://yandex.ru/clck/jsredir
 0 2
 # End Of Table - referrers
@@ -1972,7 +2089,7 @@ Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 Mozilla/5.0 (Linux; Android 5.1; 8050E Build/LMY47I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safar
 0 27
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
-0 253
+0 788
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
 0 20
 Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
@@ -2000,7 +2117,7 @@ Mozilla/5.0 (Windows NT 10.0; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.87 Safari/537.36
 0 33
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
-0 419
+0 471
 Mozilla/5.0 (Linux; Android 6.0; XT1563 Build/MPD24.65-33.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobil
 0 44
 Mozilla/5.0 (Linux; U; Android 4.2.2; pt-br; BLU STUDIO 5.5 S Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0
@@ -2013,6 +2130,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 0 33
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.52 Safari/537.36
 0 23
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G800H Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
+0 2
 Mozilla/5.0 (Linux; Android 4.4.2; SM-T531 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Safari/53
 0 33
 Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A456 
@@ -2051,16 +2170,18 @@ Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V) AppleWebKit/537.36 (KH
 0 23
 Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 like Mac OS X) AppleWebKit/602.1.38 (KHTML, like Gecko) Version/10.0 Mobile/14A300 Sa
 0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G34 [FBAN/Messenger
+0 31
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
-0 281
+0 318
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 311
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
 0 1010
-Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-0 300
 Mozilla/5.0 (Linux; Android 6.0; XT1097 Build/MPES24.49-18-7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobi
 0 33
 Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
-0 72
+0 97
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
 0 35
 Mozilla/5.0 (Linux; Android 4.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 [
@@ -2088,23 +2209,25 @@ Mozilla/5.0 (Linux; Android 5.0.1; GT-I9505 Build/LRX22C) AppleWebKit/537.36 (KH
 Mozilla/5.0 (Linux; Android 5.0.2; SM-G920I Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453 Mobile Safa
 0 188
 Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/54.0.2840.91 Mobile/1
-0 52
+0 103
 Mozilla/5.0 (Linux; Android 5.0.2; SM-G530BT Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0
 0 31
 Googlebot-Image/1.0
 0 16
 Mozilla/5.0 (Linux; U; Android 4.4.4; pt-br; SM-G530H Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
 0 32
-Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
-0 23
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0)
 0 5
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
+0 23
 Mozilla/5.0 (Linux; Android 6.0; MotoG3-TE Build/MPD24.65-33-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mo
 0 36
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safa
-0 95
+0 96
 Mozilla/5.0 (Linux; Android 4.4.4; XT1021 Build/KXC21.5-40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile
 0 22
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G930F Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0.
+0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
 0 23
 Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4) Build/MPJ24.139-50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 
@@ -2122,7 +2245,7 @@ Mozilla/5.0 (Linux; Android 5.0.1; SAMSUNG GT-I9500 Build/LRX22C) AppleWebKit/53
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.3072
 0 16
 Mozilla/5.0 (Linux; Android 6.0.1; SM-J700M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
-0 38
+0 75
 WhatsApp/2.16.14/i
 0 2
 Mozilla/5.0 (iPad; CPU OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G35 Safari/601.1
@@ -2143,18 +2266,22 @@ Mozilla/5.0 (Linux; Android 4.4.4; XT1025 Build/KXC21.5-40) AppleWebKit/537.36 (
 0 22
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.87 Safari/537.36
 0 24
+Mozilla/5.0 (Linux; Android 6.0.1; SM-A700FD Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0
+0 8
 Mozilla/5.0 (Linux; Android 6.0; LG-K430 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile Safa
 0 35
 facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
-0 179
+0 203
 Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A403 
 0 111
 AdsBot-Google (+http://www.google.com/adsbot.html)
-0 118
+0 119
 Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Mobile/14B100 [FBAN/FBIOS;F
 0 66
 Cpanel-HTTP-Client/1.0
 0 9
+Mozilla/5.0 (Linux; Android 6.0.1; Moto G Play Build/MPI24.241-15.3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 2
 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
 0 183
 Mozilla/5.0 (Linux; Android 6.0; XT1069 Build/MPB24.65-34-3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54
@@ -2179,12 +2306,12 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53
 0 37
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14
 0 46
-Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
-0 1
-Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/54.0.2840.91 Mobile/1
-0 90
 Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.87 Safari/537.36
 0 174
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/54.0.2840.91 Mobile/1
+0 90
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 1
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
 0 34
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.100 Safari/537.36
@@ -2196,11 +2323,13 @@ Mozilla/5.0 (Linux; Android 5.1.1; SM-J105B Build/LMY47V; wv) AppleWebKit/537.36
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
 0 1
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
-0 317
+0 362
 Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G920I Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/4.0 C
 0 32
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) WhatsApp/0.2.2245 Chrome/53.0.2785.113 Electr
 0 1
+Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-G800H Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 C
+0 2
 Mozilla/5.0 (Linux; Android 6.0.1; SM-J700M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile 
 0 23
 Mozilla/5.0 (X11; CrOS x86_64 8743.83.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.93 Safari/537.36
@@ -2212,7 +2341,7 @@ Dalvik/2.1.0 (Linux; U; Android 5.0; ASUS_Z00AD Build/LRX21V)
 Mozilla/5.0 (Linux; Android 5.1.1; SM-J700M Build/LMY48B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile S
 0 38
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
-0 17
+0 20
 Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
 0 81
 Mozilla/5.0 (Linux; Android 5.1.1; C6503 Build/10.7.A.0.222) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobil
@@ -2225,6 +2354,8 @@ Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
 0 2
 Mozilla/5.0 (Linux; Android 6.0; MotoG3 Build/MPI24.65-33.1-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mob
 0 89
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J700M Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0.
+0 22
 Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Mobile/14A456 [FBAN/FBIOS;F
 0 71
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
@@ -2232,7 +2363,7 @@ Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
 Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-G935F Build/MMB29K)
 0 1
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
-0 183
+0 215
 Mozilla/5.0 (Windows NT 10.0; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
 0 46
 Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G34 [FBAN/FBIOS;FBA
@@ -2240,7 +2371,7 @@ Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_3 like Mac OS X) AppleWebKit/601.1.46 (KH
 Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
 0 116
 Mozilla/5.0 (iPhone; CPU iPhone OS 10_1_1 like Mac OS X) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0 Mobile/14B100 
-0 282
+0 324
 Mozilla/5.0 (Linux; Android 4.4.4; XT1025 Build/KXC21.5-40) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobil
 0 24
 Mozilla/5.0 (Linux; Android 6.0; LG-K430 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0.284
@@ -2287,18 +2418,22 @@ Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.
 0 277
 Mozilla/5.0 (Linux; Android 5.0.2; ASUS_Z00UD Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.
 0 23
+Mozilla/5.0 (Linux; Android 6.0.1; D6643 Build/23.5.A.1.291) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobil
+0 25
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.90 Safari/537.36
 0 23
 WhatsApp/2.16.310 A
 0 1
+Mozilla/5.0 (Linux; Android 6.0.1; SM-A700FD Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile 
+0 19
 Mozilla/5.0 (Linux; Android 4.1.2; GT-I8552B Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile 
 0 56
 Mozilla/5.0 (Linux; Android 6.0; E5343 Build/27.3.B.0.129; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0
 0 34
+Mozilla/5.0 (Linux; Android 5.1.1; D2403 Build/18.6.A.0.182) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobi
+0 49
 Mozilla/5.0 (Linux; U; Android 4.1.2; pt-br; GT-S5312B Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
 0 28
-Mozilla/5.0 (Linux; Android 5.1.1; D2403 Build/18.6.A.0.182) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobi
-0 31
 Mozilla/5.0 (Linux; Android 6.0.1; SM-J700M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile S
 0 26
 Mozilla/5.0 (Linux; Android 6.0.1; Moto G (4) Build/MPJ24.139-50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 
@@ -2311,6 +2446,8 @@ Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49
 0 23
 Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile S
 0 39
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G800H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile S
+0 2
 Mozilla/5.0 (Linux; Android 6.0; Quantum MUV PRO Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
 0 22
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36
@@ -2319,18 +2456,26 @@ Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrom
 0 32
 Mozilla/5.0 (Linux; Android 4.2.1; en-us; Nexus 5 Build/JOP40D) AppleWebKit/535.19 (KHTML, like Gecko; googleweblight) Chrome
 0 158
-Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0.
+Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
 0 23
+Mozilla/5.0 (Linux; Android 6.0; XT1069 Build/MPB24.65-34) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile 
+0 46
+Mozilla/5.0 (Linux; Android 6.0.1; SM-J500M Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/54.0.
+0 46
 Mozilla/5.0 (Linux; Android 5.0.2; SM-G360BT Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile 
 0 45
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Safari/602.1.50
-0 206
+0 278
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G530H Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile S
+0 25
 Mozilla/5.0 (Linux; Android 5.0.2; SM-A700FD Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.68 Mobile 
 0 230
 Mozilla/5.0 (Windows NT 6.1; rv:50.0) Gecko/20100101 Firefox/50.0
 0 31
 Mozilla/5.0 (Windows NT 6.3; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
 0 23
+Mozilla/5.0 (Linux; U; Android 4.4.4; pt-br; SM-G530BT Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 38
 Mozilla/5.0 (Linux; Android 5.1; XT1033 Build/LPBS23.13-56-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobi
 0 35
 request.js

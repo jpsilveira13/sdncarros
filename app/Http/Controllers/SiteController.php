@@ -163,10 +163,21 @@ class SiteController extends Controller
     }
 
     public function listarVeiculos(){
-        $veiculos = $this->cotacao->orderBy('id','desc')->paginate();
+        $veiculos = $this->cotacao->orderBy('status','asc')->orderBy('id','desc')->paginate(50);
         return view('site/lista',compact('veiculos'));
     }
 
+    public function visto(){
+        $id = Input::get('id');
+        $visto = $this->cotacao->find($id);
+        if($visto->status == "nv")
+        {
+            $visto->status = "v";
+            $visto->save();
+        }else{
+            return false;
+        }
+    }
     public function contatoHome(){
 
         $inputData = Input::get('formData');

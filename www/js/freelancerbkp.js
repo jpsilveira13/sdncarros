@@ -69,16 +69,6 @@ $(document).ready(function () {
     });
 
 
-    $('.mudaStatus').on('click',function () {
-        var id = $(this).attr('id');
-
-        $.ajax({
-            type: "POST",
-            url: "/get-visto",
-            dataType: 'html',
-            data: ({id:id})
-        });
-    });
 
     $('.data').mask('00/00/0000');
     $('.hora').mask('00:00:00');
@@ -160,21 +150,18 @@ $(document).ready(function () {
 
                 $('#valorMinimo').html('R$ ' + valormin);
                 $('#valorMaximo').html('R$ ' + valormax);
-
+                $('html, body').animate({scrollTop: 0}, 1000);
             } //success
         }); //done
     });
 
     $('#btnSalvar').click(function () {
         swal({
-            title: "Espere!",
+            title: "Hey,",
             text: "Um momento que estamos levantando a média do valor do seu veículo dos últimos 7 dias.",
-            timer: 3000,
+            timer: 6000,
             showConfirmButton: false
         });
-        setTimeout(function(){
-            $('html, body').animate({scrollTop: 0}, 1000);
-        }, 3000);
 
     });
 
@@ -204,7 +191,7 @@ $(document).ready(function () {
                     'Seu contato foi efetuado com sucesso. Logo entraremos em contato!',
                     'success'
                 )
-
+                $('html, body').animate({scrollTop: 0}, 1000);
             } //success
         }); //done
     })
@@ -227,9 +214,13 @@ $(document).ready(function () {
                 });
 
             }
-
             if(data.success) {
-
+                swal({
+                    title: "Aguarde estamos buscando em todos nossos clientes!",
+                    text: "Aguarde 3 segundos.",
+                    timer: 3000,
+                    showConfirmButton: false
+                });
                 swal(
                     'Parabéns!',
                     'Seu Agendamento foi efetuado com sucesso. Logo entraremos em contato!',
@@ -238,7 +229,6 @@ $(document).ready(function () {
 
             } //success
         }); //done
-
     });
     (function($) {
         'use strict';
@@ -302,25 +292,5 @@ $(document).ready(function () {
         });
 
     }(jQuery, this));
-    $('.star').on('click', function () {
-        $(this).toggleClass('star-checked');
-    });
 
-    $('.ckbox label').on('click', function () {
-        $(this).parents('tr').toggleClass('selected');
-    });
-
-    $('.btn-filter').on('click', function () {
-        var $target = $(this).data('target');
-        if ($target != 'all') {
-            $('.table tr').css('display', 'none');
-            $('.table tr[data-status="' + $target + '"]').fadeIn('slow');
-        } else {
-            $('.table tr').css('display', 'none').fadeIn('slow');
-        }
-    });
-
-    $('.aumentarDiv').click(function () {
-        $(this).css('height','330').show().animate();
-    })
 });

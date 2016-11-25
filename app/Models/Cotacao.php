@@ -24,6 +24,8 @@ class Cotacao extends Model
         'local',
         'data',
         'periodo',
+        'status',
+        'comentario'
     ];
 
 }
