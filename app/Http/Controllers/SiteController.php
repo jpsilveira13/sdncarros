@@ -163,7 +163,7 @@ class SiteController extends Controller
     }
 
     public function listarVeiculos(){
-        $veiculos = $this->cotacao->orderBy('status','asc')->orderBy('id','desc')->paginate(50);
+        $veiculos = $this->cotacao->orderBy('status','asc')->orderBy('id','desc')->paginate(500);
         return view('site/lista',compact('veiculos'));
     }
 
