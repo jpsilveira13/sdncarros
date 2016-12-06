@@ -1,86 +1,81 @@
 @extends('site.layout')
 @section('content')
-
-    <div class="container">
+    <div class="container " style="margin-top: 150px">
         <div class="row">
+            <div class="col-md-12">
+                <h1 class="text-center">
+                    Listagem Veículos
+                </h1>
 
-            <section class="content">
-                <h1>Listagem de Veículos</h1>
-                <div class="col-md-12">
-                    <div class="panel panel-default">
-                        <div class="panel-body">
-                            <div class="pull-right">
-                                <div class="btn-group">
-                                    <button type="button" class="btn btn-success btn-filter" data-target="nv">Não Visto</button>
-                                    <button type="button" class="btn btn-danger btn-filter" data-target="v">Visto</button>
-                                    <button type="button" class="btn btn-default btn-filter" data-target="all">Todos</button>
-                                </div>
-                            </div>
-                            <div class="table-container">
-                                <table class="table table-filter">
-                                    <tbody>
-                                    @foreach($veiculos as $veiculo)
+            </div>
+            <div id="no-more-tables">
+                <table class="col-md-12 table table-bordered table-striped table-condensed table-hover table-inverse">
+                    <thead class="cf">
+                    <tr>
+                        <th class="numeric">ID</th>
+                        <th class="numeric">Nome</th>
+                        <th class="numeric">Marca</th>
+                        <th class="numeric">Modelo</th>
+                        <th class="numeric">Email</th>
+                        <th class="numeric">Telefone</th>
+                        <th class="numeric">Local</th>
+                        <th class="numeric">Ano veículo</th>
+                        <th class="numeric">KM veículo</th>
+                        <th class="numeric">Valor Fipe</th>
+                        <th class="numeric">Valor min</th>
+                        <th class="numeric">Valor max</th>
+                        <th class="numeric">Data</th>
+                        <th class="numeric">Período</th>
+                        <th>Status</th>
 
-                                        <tr class="mudaStatus @if($veiculo->status=="v") selected @endif" id="{{$veiculo->id}}" data-status="{{$veiculo->status}}">
-                                            <td>
-                                                <div class="ckbox">
-                                                    <input type="checkbox" @if($veiculo->status == "v") checked @endif id="checkbox1">
-                                                    <label for="checkbox1"></label>
-                                                </div>
-                                            </td>
-                                            <td>
-                                                <a href="javascript:;" class="star">
-                                                    <i class="glyphicon glyphicon-star"></i>
-                                                </a>
-                                            </td>
-                                            <td>
-                                                <div  class="aumentarDiv media">
-                                                    <a href="#" class="pull-left">
-                                                        <img src="https://s3.amazonaws.com/uifaces/faces/twitter/fffabs/128.jpg" class="media-photo">
-                                                    </a>
-                                                    <div class="media-body">
-                                                        <span class="media-meta pull-right">{{ date("d/m/Y H:i:s", strtotime($veiculo->created_at)) }}</span>
-                                                        <h4 class="title">
-                                                            {{$veiculo->marca}}<br />
-                                                            <span class="pull-left pagado">{{$veiculo->modelo}}</span>
-                                                            @if($veiculo->status == "nv")
-                                                                <span class="pull-right pagado"> Não Visto</span>
-                                                            @else
-                                                                <span class="pull-right cancelado"> Visto</span>
-                                                            @endif
-                                                        </h4><br />
-                                                        <p class="summary">Nome: {{$veiculo->nome}}</p>
-                                                        <p class="summary">Email: {{$veiculo->email}}</p>
-                                                        <p class="summary">Telefone: {{$veiculo->tel}}</p>
-                                                        <p class="summary">Local: {{$veiculo->local}}</p>
-                                                        <p class="summary">Ano veículo: {{$veiculo->ano}}</p>
-                                                        <p class="summary">KM veículo: {{$veiculo->km}}</p>
-                                                        <p class="summary">Valor min: R$ {{number_format((float)$veiculo->valor_min,2,",",".")}}</p>
-                                                        <p class="summary">Valor max: R$ {{number_format((float)$veiculo->valor_max,2,",",".")}}</p>
-                                                        <p class="summary">Data: {{$veiculo->data}}</p>
-                                                        <p class="summary">Período : {{$veiculo->periodo}}</p>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    @foreach($veiculos as $veiculo)
 
-                                                    </div>
-                                                </div>
-                                            </td>
-                                        </tr>
-                                    @endforeach
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="content-footer">
-                        <div class="container">
-                            <div class="text-center">
-                                {!! $veiculos->render() !!}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+                        <tr @if($veiculo->status == "v") class="success" @endif>
 
+                            <td data-title="ID">{{$veiculo->id}}</td>
+                            <td data-title="Nome">{{$veiculo->nome}}</td>
+
+                            <td data-title="Marca"> {{$veiculo->marca}}</td>
+                            <td data-title="Modelo"> {{$veiculo->modelo}}</td>
+                            <td data-title="Email"> {{$veiculo->email}}</td>
+
+
+                            <td data-title="Telefone"> {{$veiculo->tel}}</td>
+                            <td data-title="Local"> {{$veiculo->local}}</td>
+                            <td data-title="Ano Veículo">{{$veiculo->ano}}</td>
+                            <td data-title="KM veículo"> {{$veiculo->km}}</td>
+                            <td data-title="Valor Fipe"> R$ {{number_format((float)$veiculo->valor,2,",",".")}}</td>
+                            <td data-title="Valor min">R$ {{number_format((float)$veiculo->valor_min,2,",",".")}}</td>
+                            <td data-title="Valor Max">R$ {{number_format((float)$veiculo->valor_max,2,",",".")}}</td>
+
+                            <td data-title="Data">{{$veiculo->data}}</td>
+                            <td data-title="Período">{{$veiculo->periodo}}</td>
+                            <td data-title="Status">
+
+                                    <select style="width: 88px" id="{{$veiculo->id}}" class="form-control statusCarro">
+                                        <option value="">Selecione</option>
+                                        <option @if($veiculo->status == "v") selected @endif value="v">Vistoriado</option>
+                                        <option @if($veiculo->status == "nv") selected @endif value="nv">Não vistoriado</option>
+                                    </select>
+
+                            </td>
+
+                        </tr>
+                    @endforeach
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="text-center">
+                {!! $veiculos->render() !!}
+            </div>
         </div>
     </div>
+
+
 
 @endsection

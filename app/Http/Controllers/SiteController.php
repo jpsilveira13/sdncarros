@@ -163,7 +163,7 @@ class SiteController extends Controller
     }
 
     public function listarVeiculos(){
-        $veiculos = $this->cotacao->orderBy('status','asc')->orderBy('id','desc')->paginate(500);
+        $veiculos = $this->cotacao->orderBy('status','asc')->orderBy('id','desc')->paginate(20);
         return view('site/lista',compact('veiculos'));
     }
 
@@ -175,7 +175,8 @@ class SiteController extends Controller
             $visto->status = "v";
             $visto->save();
         }else{
-            return false;
+            $visto->status= "nv";
+            $visto->save();
         }
     }
     public function contatoHome(){
@@ -220,15 +221,7 @@ class SiteController extends Controller
         }
     }
 
-    public function sendEmailTest(){
-        \Mail::send('emails.teste', ['msg' => 'hello'], function ($message) {
-            $message->from('suporte@sempredanegocio.com.br', 'João Paulo');
 
-            $message->to('samotinho@gmail.com', 'Pedro 2')->subject('My Test Email!');
-        });
-
-        var_dump('sent');
-    }
 
     public function getMarca(){
         $marcas = Marca::orderBy('marca','asc')->get();

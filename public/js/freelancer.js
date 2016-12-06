@@ -69,14 +69,21 @@ $(document).ready(function () {
     });
 
 
-    $('.mudaStatus').on('click',function () {
+    $('.statusCarro').change(function () {
         var id = $(this).attr('id');
 
+        console.log(id);
         $.ajax({
             type: "POST",
             url: "/get-visto",
             dataType: 'html',
-            data: ({id:id})
+            data: ({id:id}),
+            success:function (data) {
+                console.log('deu certo');
+            },
+            error:function () {
+                console.log('deu erro ');
+            }
         });
     });
 
@@ -320,7 +327,5 @@ $(document).ready(function () {
         }
     });
 
-    $('.aumentarDiv').click(function () {
-        $(this).css('height','330').show().animate();
-    })
+
 });
